@@ -9,6 +9,8 @@
 #'
 #' @example
 #' get_PHYLOTA("Pinus", MSA = T, ALI =T)
+#'
+#' @export
 
 
 get_PHYLOTA <- function(clade = NULL,

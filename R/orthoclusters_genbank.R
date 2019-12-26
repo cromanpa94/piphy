@@ -9,6 +9,8 @@
 #'
 #' @example
 #' get_ortho_clusters("centrolene", "cochranella", MSA=T, ALI=F)
+#'
+#' @export
 
 orthoclusters_genbank <- function(ingroup,
                                outgroup,
