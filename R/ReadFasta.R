@@ -1,3 +1,5 @@
+#' Retrieve Fasta files from phylota
+
 ReadFasta<-function(file) {
   options(warn=-1)
   fasta<-readLines(file)

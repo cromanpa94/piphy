@@ -12,7 +12,6 @@
 #'
 #' @export
 
-
 get_phylota <- function(clade,
                         MSA = F,
                         ALI = F) {
@@ -32,7 +31,6 @@ get_phylota <- function(clade,
   if (length(setdiff("ips", rownames(installed.packages()))) > 0 & ALI==T ) {
     stop("Please install ips first")
   }
-
 
   ##GetWD
   mainDir <-  getwd()
@@ -88,8 +86,6 @@ get_phylota <- function(clade,
 
   cat("\nDone!!")
 
-
-
   ##Make sampling matrix------
   sm <- makesamplingmatrix(".", name = "Sampling_matrix_unaligned.csv")
   setwd(mainDir)
@@ -107,9 +103,6 @@ get_phylota <- function(clade,
 
     }
   }
-
   setwd(mainDir)
   cat("\nDone!!")
-
-
 }
