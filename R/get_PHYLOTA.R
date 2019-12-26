@@ -1,3 +1,12 @@
+#' This function downloads all the  ortholog clusters from the Phylota
+#' pipeline for any given clade in the database. Additional subrutines are available
+#' to align all downloaded sequences and perform aaliscore.
+#'
+#' @param clade The name of a valid taxonomic group with sequences in Phylota
+#' @param MSA Whether or not perform sequence alignment on the retrieved clusters
+#' @param ALI Whether or nor run Aliscore on the aligned sequences
+#'
+#'
 #' @example
 #' get_PHYLOTA("Pinus", MSA = T, ALI =T)
 
@@ -14,6 +23,8 @@ get_PHYLOTA <- function(clade = NULL,
   if (file.exists("Unaligned")) {
     stop("Please work in a new working directory or delete the existing files")
   }
+  if(ALI == T & MSA ==F ){stop("Aliscore is only available when clusters are aligned" )}
+
 
   ##GetWD
   mainDir <-  getwd()
