@@ -1,4 +1,4 @@
-align_piphy<-function(mainDir){
+align_piphy<-function(mainDir, clade){
 cat("\nalignment in process. Please be patient\n")
 
 setwd(file.path(mainDir, "unaligned"))

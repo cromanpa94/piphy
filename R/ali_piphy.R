@@ -1,4 +1,4 @@
-ali_piphy<-function(mainDir, alignments, sm){
+ali_piphy<-function(mainDir, alignments, sm, clade){
 
 if ("Aliscore_v.2.0" %in% list.files() == FALSE) {
   download.file("http://software.zfmk.de/ALISCORE_v2.0.zip",

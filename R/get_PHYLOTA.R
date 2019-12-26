@@ -92,11 +92,11 @@ get_phylota <- function(clade,
 
   ##Do MSA--------
   if (MSA == TRUE) {
-    alignments<-align_piphy(mainDir=mainDir)
+    alignments<- align_piphy(mainDir = mainDir, clade=clade)
     write.csv(sm, "Sampling_matrix_aligned.csv")
     if (ALI == TRUE) {
       setwd(mainDir)
-      ali_piphy(mainDir,alignments)
+      sm<-ali_piphy(mainDir,alignments, sm=sm, clade=clade)
       write.csv(sm, "Sampling_matrix_alignedAli.csv")
       setwd(mainDir)
       unlink(list.dirs()[grep("Aliscore_", list.dirs(), ignore.case = T)], recursive=TRUE)

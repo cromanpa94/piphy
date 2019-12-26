@@ -8,7 +8,7 @@
 #'
 #'
 #' @example
-#' get_ortho_clusters("centrolene", "cochranella", MSA=T, ALI=F)
+#' orthoclusters_genbank("centrolene", "cochranella", MSA=T, ALI=T)
 #'
 #' @export
 
@@ -203,11 +203,11 @@ orthoclusters_genbank <- function(ingroup,
   setwd(mainDir)
 
   if (MSA == TRUE) {
-    alignments<-align_piphy(mainDir = mainDir)
+    alignments<-align_piphy(mainDir = mainDir, clade=ingroup)
     write.csv(sm, "Sampling_matrix_aligned.csv")
     if (ALI == TRUE) {
       setwd(mainDir)
-      ali_piphy(mainDir, alignments)
+      sm<-ali_piphy(mainDir, alignments, sm=sm, clade=ingroup)
       write.csv(sm, "Sampling_matrix_alignedAli.csv")
       setwd(mainDir)
       unlink(list.dirs()[grep("Aliscore_", list.dirs(), ignore.case = T)], recursive =

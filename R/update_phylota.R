@@ -206,12 +206,12 @@ update_phylota <-
     )
 
     if (MSA == TRUE) {
-     alignments<- align_piphy(mainDir = mainDir)
+     alignments<- align_piphy(mainDir = mainDir, clade=ingroup)
       write.csv(final_sampling, "Sampling_matrix_aligned.csv")
       setwd(mainDir)
       if (ALI == TRUE) {
         setwd(mainDir)
-        sm<-ali_piphy(mainDir, alignments, sm=final_sampling)
+        sm<-ali_piphy(mainDir, alignments, sm=final_sampling, clade=ingroup)
         write.csv(sm, "Sampling_matrix_aliscore.csv")
 
         setwd(mainDir)
