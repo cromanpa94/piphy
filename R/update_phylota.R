@@ -1,11 +1,13 @@
+
+#' update_phylota(ingroup = "centrolene", outgroup = "cochranella",
+#'               genes = c("12S","RAG1", "ND1","16S"), MSA=T, ALI=T)
+
 update_phylota <-
   function(ingroup,
            outgroup,
            genes = NULL,
            MSA = FALSE,
-           ALI = FALSE,
-           correct_db = TRUE,
-           delete_all = TRUE) {
+           ALI = FALSE) {
     ##New version
     options(warn = -1)
 
@@ -32,7 +34,7 @@ update_phylota <-
 
     cat("\n Get PhyLota clusters \n")
 
-    piphy::get_phylota(ingroup, MSA = MSA, ALI = ALI)
+    piphy::get_phylota(ingroup, MSA = F, ALI = F)
     mainDirect <-  getwd()
     mainDir<-mainDirect
 
@@ -113,7 +115,7 @@ update_phylota <-
 
       cat("\nFitting the new sequences into the existing clusters \n")
 
-      acce_new <- as.character(na.omit(unlist(data[, -1])))
+      acce_new <- unique(as.character(na.omit(unlist(data[, -1]))))
 
       if (length(acce_new) == 0) {
         stop("No new sequences found")
@@ -142,6 +144,7 @@ update_phylota <-
           if (file.info("test.txt")$size > 0) {
             cluster <- ape::read.dna(paste0(subwd, files[j]), format = "fasta")
             cluster[length(cluster) + 1] <- sequence
+            if( names(sequence) %in% names(cluster)  ){}else{
             names(cluster)[length(cluster)] <- names(sequence)
             write.dna(cluster, paste0(subwd, files[j]), format = "fasta")
             species_included[[i]] <-
@@ -152,6 +155,7 @@ update_phylota <-
               )
             cat("*******Sequence matched!******* \n")
             break ##If sequence is matched, we shold stop.
+            }
           } else {
             cat("****Still working \n")
           }
@@ -175,191 +179,46 @@ update_phylota <-
 
     }
 
-    setwd(mainDirect)
     cat("\n Retrieving accession numbers \n")
 
     ##Need to include the new seqs to the cluster matrix
 
 
+    addedseqs<-reshape(df, idvar = "Included_species", timevar = "Cluster", direction = "wide")
+    colnames(addedseqs)<-c("Species", paste0("Cluster_",as.numeric(gsub("[^\\d]+", "", colnames(addedseqs)[-1], perl=TRUE))))
 
-    ##Do MSA--------
-    ##Read fasta files
-    if(MSA==TRUE){
 
-      cat("\nalignment in process. Please be patient\n")
+    final_sampling<-as.data.frame(rbindlist(list(spp_sampled, addedseqs), fill = TRUE))[,-1]
 
-      setwd(file.path(mainDir, "Unaligned"))
 
-      temp = list.files(pattern="*.fasta")
+    write.csv( final_sampling,"Unaligned/Sampling_matrix_unaligned.csv" )
 
-      ##Chose method: "Muscle", "ClustalOmega", "ClustalW"
+    setwd(mainDirect)
 
-      align_PHYLOTA<-function(file.names){
-        mySequences <- readDNAStringSet(file.names)
-        myFirstAlignment <- msa(mySequences, "ClustalOmega")
-        aln <- as.DNAbin(msaConvert(myFirstAlignment, type="phangorn::phyDat"))
-      }
+    file.remove(
+      list.files(
+        ".",
+        pattern = ".fasta.",
+        include.dirs = F,
+        full.names = T,
+        recursive = T
+      )
+    )
 
-      alignments<-pblapply(temp,align_PHYLOTA)
-
-      options(warn=-1)
-      dir.create(file.path(mainDir, "Aligned"))
-      options(warn=-0)
-
-      setwd(file.path(mainDir, "Aligned"))
-
-      for (i in 1: length(alignments)){
-        write.dna(alignments[[i]], paste0(clade, "_", "Alignment","Cluster" ,i, ".fasta"), format="fasta")
-      }
-      cat("\nAligned and unaligned sequences are in separated folders within your working directory")
-
-      if (ALI==TRUE){
-        ####For Aliscore------
+    if (MSA == TRUE) {
+     alignments<- align_piphy(mainDir = mainDir)
+      write.csv(final_sampling, "Sampling_matrix_aligned.csv")
+      setwd(mainDir)
+      if (ALI == TRUE) {
+        setwd(mainDir)
+        sm<-ali_piphy(mainDir, alignments, sm=final_sampling)
+        write.csv(sm, "Sampling_matrix_aliscore.csv")
 
         setwd(mainDir)
-
-        if( "Aliscore_v.2.0" %in% list.files() == FALSE){
-          download.file("http://software.zfmk.de/ALISCORE_v2.0.zip",'Aliscore_v.2.0.zip')
-          unzip("Aliscore_v.2.0.zip")
-          unzip("ALISCORE_v2.0/Aliscore_v.2.0.zip")
-        } else
-          options(warn=-1)
-        dir.create(file.path(mainDir, "Aliscore"))
-        options(warn=0)
-
-        setwd(file.path(mainDir, "Aliscore"))
-
-        plot.progress <- function(percent) {
-          plot(c(0,100), c(0,1), type='n', xlab='', ylab='', yaxt='n')
-          rect(0, 0.1, percent*100, 0.9, col='blue')
-          title(paste('Progress: ', round(percent*100,2), '%', sep=''))
-        }
-
-
-        aln_aliscored<-list()
-        for (i in 1: length(alignments)){
-          aln_aliscored[[i]]<-aliscore(alignments[[i]], gaps = "ambiguous", w = 3, path = paste0(mainDir, "/Aliscore_v.2.0"))
-          write.dna(aln_aliscored[[i]], paste0(clade, "_", "AliScore", "_Alignment","_Cluster_" ,i, ".fasta"), format="fasta")
-          plot.progress(i/length(alignments))
-          cat("\nCurated alignments are under ALISCORE folder")
-
-        }
-        setwd(mainDirect)
-      } else {}
-      setwd(mainDirect)
-    } else {}
-
-    setwd(mainDir)
-    setwd(mainDirect)
-    ####Remove subspecies for the last time
-
-    dfs <-
-      lapply(list.files(
-        pattern = c(".csv"),
-        full.names = T
-      ), read.csv)
-
-    files_names<-list.files(
-      pattern = c(".csv"),
-      full.names = T
-    )
-
-    dfs_co<-lapply(1:length(dfs), function(x){
-     vec<- gsub(" ", "_",as.character(dfs[[x]][,grep("species",colnames(dfs[[x]]),ignore.case=TRUE)]))
-      num1<-which(sapply(strsplit(vec, "_"), length)==3)
-      df_corr<- if(length(num1)==0){ dfs[[x]]}else{dfs[[x]][-num1,]}
-      return(df_corr)
-    })
-
-
-    lapply(1:length(dfs_co), function(x){
-      write.csv(dfs_co[[x]], file=files_names[x])
-    })
-
-
-    alns <-
-      lapply(list.files(
-        pattern = c(".fasta"),
-        full.names = T, recursive = T
-      ), ape::read.dna, "fasta")
-
-    names_alns <-list.files(
-      pattern = c(".fasta"),
-      full.names = T, recursive = T
-    )
-
-
-    lapply(1:length(alns), function(x){
-      aln_ex<-alns[[x]]
-      num1<-which(sapply(strsplit(labels(aln_ex), "_"), length)==3)
-      if(length(num1)==0){ }else{
-        newaln<- if(is.null(dim(aln_ex)) ==F){
-          aln_ex[-(num1),]
-        }else{
-          aln_ex[-(num1)]
-        }
-        write.dna(newaln, names_alns[x], format = "fasta")
+        unlink(list.dirs()[grep("Aliscore_", list.dirs(), ignore.case = T)], recursive =
+                 TRUE)
       }
-    })
-
-    ####Re organize datasets
-
-    dfs <-
-      lapply(list.files(
-        pattern = c(".csv"),
-        full.names = T
-      ), read.csv)
-
-    files_names<-list.files(
-      pattern = c(".csv"),
-      full.names = T
-    )
-
-    species_correct<- unique(gsub(" ", "_",as.character(dfs[[2]][,grep("species",colnames(dfs[[x]]),ignore.case=TRUE)])))
-
-    dfs_co<-lapply(1:length(dfs), function(x){
-      spps<- gsub(" ", "_",as.character(dfs[[x]][,grep("species",colnames(dfs[[x]]),ignore.case=TRUE)]))
-      new_df<-dfs[[x]][!duplicated(spps),]
-      spps<- gsub(" ", "_",as.character(new_df[,grep("species",colnames(new_df),ignore.case=TRUE)]))
-      new_df<-new_df[which(spps %in% species_correct),]
-      return(new_df)
-    })
-
-
-    lapply(1:length(dfs_co), function(x){
-      write.csv(dfs_co[[x]], file=files_names[x])
-    })
-
-
-    alns <-
-      lapply(list.files(
-        pattern = c(".fasta"),
-        full.names = T, recursive = T
-      ), ape::read.dna, "fasta")
-
-    names_alns <-list.files(
-      pattern = c(".fasta"),
-      full.names = T, recursive = T
-    )
-
-
-    lapply(1:length(alns), function(x){
-      aln_ex<-alns[[x]]
-      num1<-which(sapply(strsplit(labels(aln_ex), "_"), length)==3)
-      num2<-which(! labels(aln_ex) %in% species_correct)
-
-      num3<-c(num1,num2)
-
-      if(length(num3)==0){ }else{
-        newaln<- if(is.null(dim(aln_ex)) ==F){
-          aln_ex[-(num3),]
-        }else{
-          aln_ex[-(num3)]
-        }
-        write.dna(newaln, names_alns[x], format = "fasta")
-      }
-    })
-
+    }
 
     cat("\nDone!!")
 

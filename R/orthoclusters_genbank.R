@@ -203,11 +203,11 @@ orthoclusters_genbank <- function(ingroup,
   setwd(mainDir)
 
   if (MSA == TRUE) {
-    align_piphy(mainDir = mainDir)
+    alignments<-align_piphy(mainDir = mainDir)
     write.csv(sm, "Sampling_matrix_aligned.csv")
     if (ALI == TRUE) {
       setwd(mainDir)
-      ali_piphy(mainDir)
+      ali_piphy(mainDir, alignments)
       write.csv(sm, "Sampling_matrix_alignedAli.csv")
       setwd(mainDir)
       unlink(list.dirs()[grep("Aliscore_", list.dirs(), ignore.case = T)], recursive =

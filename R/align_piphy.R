@@ -3,7 +3,7 @@ cat("\nalignment in process. Please be patient\n")
 
 setwd(file.path(mainDir, "unaligned"))
 
-temp = list.files(pattern = "*Cluster")
+temp = list.files(pattern = ".fasta")
 
 ##Chose method: "Muscle", "ClustalOmega", "ClustalW"
 
@@ -28,4 +28,5 @@ for (i in 1:length(alignments)) {
             format = "fasta")
 }
 
+return(alignments)
 }

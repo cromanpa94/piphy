@@ -24,5 +24,7 @@ Depends: ape,
   RFLPtools,
   traits,
   seqinr,
-  reutils
+  reutils,
+  reshape2,
+  data.table
 
