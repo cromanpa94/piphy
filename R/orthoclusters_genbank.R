@@ -14,7 +14,7 @@
 
 orthoclusters_genbank <- function(ingroup,
                                outgroup,
-                               MSA = T,
+                               MSA = F,
                                ALI = F) {
   ##Delete files
   if (file.exists("sequences.fasta")) {
@@ -26,6 +26,23 @@ orthoclusters_genbank <- function(ingroup,
   } else {
     unlink(grep("cluster_*", list.files("."), value = T))
   }
+  if(ALI == T & MSA ==F ){stop("Aliscore is only available when clusters are aligned" )}
+  if (length(setdiff("msa", rownames(installed.packages()))) > 0 & MSA==T ) {
+    stop("Please install msa first")
+  }
+  if (length(setdiff("ips", rownames(installed.packages()))) > 0 & ALI==T ) {
+    stop("Please install ips first")
+  }
+  if (is.null(ingroup)) {
+    stop("Please select an ingroup")
+  }
+  if (class(ingroup) != "Vector") {
+    stop("Please use a character vector for the ingroup")
+  }
+  if (file.exists("Unaligned")) {
+    stop("Please work in a new working directory or delete the existing files")
+  }
+
 
   ##GetWD
   mainDir <-  getwd()

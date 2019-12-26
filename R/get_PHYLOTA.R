@@ -8,14 +8,14 @@
 #'
 #'
 #' @example
-#' get_PHYLOTA("Pinus", MSA = T, ALI =T)
+#' get_phylota("Pinus", MSA = T, ALI =T)
 #'
 #' @export
 
 
-get_PHYLOTA <- function(clade = NULL,
-                        MSA = FALSE,
-                        ALI = FALSE) {
+get_phylota <- function(clade,
+                        MSA = F,
+                        ALI = F) {
   if (is.null(clade)) {
     stop("Please select a Clade")
   }
@@ -26,6 +26,12 @@ get_PHYLOTA <- function(clade = NULL,
     stop("Please work in a new working directory or delete the existing files")
   }
   if(ALI == T & MSA ==F ){stop("Aliscore is only available when clusters are aligned" )}
+  if (length(setdiff("msa", rownames(installed.packages()))) > 0 & MSA==T ) {
+    stop("Please install msa first")
+  }
+  if (length(setdiff("ips", rownames(installed.packages()))) > 0 & ALI==T ) {
+    stop("Please install ips first")
+  }
 
 
   ##GetWD
