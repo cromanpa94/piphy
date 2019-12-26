@@ -36,7 +36,7 @@ orthoclusters_genbank <- function(ingroup,
   if (is.null(ingroup)) {
     stop("Please select an ingroup")
   }
-  if (class(ingroup) != "Vector") {
+  if (class(ingroup) != "character") {
     stop("Please use a character vector for the ingroup")
   }
   if (file.exists("Unaligned")) {

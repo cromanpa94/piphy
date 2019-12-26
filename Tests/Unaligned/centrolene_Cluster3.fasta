@@ -1,494 +1,628 @@
->Centrolene_buckleyi
-tattacttaa tgtacacatg caagtctccg cacccctgtg aaaacgccct tacgatcccc
-attagggaca aggagctggt atcaggcaca accaaactgc ccaagacacc tagctacgcc
-acacccacaa gggaattcag cagtgattaa cattgaacat aagcgacagc ttgactcagt
-taaagtaaaa agagccggca aatctggtgc cagccgccgc ggttacacca cgtggctcaa
-attgatttcc atcggcgtaa agcgtgatta aagtcccaac cccactggag tcaaactaaa
-actaagctgt gacacgcttg tacctaagaa gcccaaagac gaaagttact ccaatacaac
-ccgcttgaac ccacgacagc tgagtcacaa actgggatta gataccccac tatgctcagc
-cgtaaacttt aaattacatc catatcgcca gggaactacg agcaaagctt aaaacccaaa
-ggacttgacg gtaccccaca tccacctaga ggagcctgtc ctacaatcga taccccccgc
-taaacctcac cacttctcgc ctactcagcc tgtatacctc cgtcgtcagc ttaccacgtg
-agcgcaattc agtgagctca atgcccatac gccaacacgt caggtcaagg tgcagcaaat
-gaagtgggaa gagatgggct acactctcta acatagaaaa cacggaagac tacttatgaa
-acctagtcta aaggcggatt tagaagtaaa aagaaaaaag aatgttcttt ttaactcggc
-actggggtgt gtacacaccg cccgtcaccc tcttcaaagn nccatcagaa agtaaataac
-taactagcgc aacatagaag aggcaagtcg taacatggta agtataccgg aa
->Centrolene_geckoideum
-tcgccaggga actacgagca aagcttaaaa cccaaaggac ttgacggtac cccacatcca
-cctagaggag cctgtcctat aatcgatacc ccccgctaaa cctcaccacc tctcgcccac
-tcagcctgta tacctccgtc gtcagcttac cacatgagcg caatttagtg agcttaatgc
-ccatacgcca acacgtcagg tcaaggtgca gcaaatgaga tgggaagaga tgggctacac
-tctctaatat agaaaacacg gaagactact tatgaaacct agtctaaagg cggatttaga
-agtaaaaaaa aaaatgaatg tcctttttaa ctggggcact ggggtgtgt
->Centrolene_charapita
-ctgagatgga tcctaaaaag tcctttaaac ataaaggttt ggtcctgacc ttgtaatcag
-ttattactta atatacacat gcaagtctcc gcacccctgt gaaaacgccc ttacaccccc
-attagggaca aggagccggt atcaggcaca ataaaaatgc ccaagacacc tagctatgcc
-acacccacaa gggacttcag cagtgattaa cattgaacat gagcgacagc ttgactcagt
-taaagtaaaa agagccggca aatctggtgc cagccgccgc ggttacacca cgtggctcaa
-attgatctcc atcggcgtaa agcgtgatta aagtcccacc cccattagag ttaaactaag
-actaagctgt gacacgcttg tacttaggaa acccaaagac gaaagttact ccaacttaat
-caacttgaac ccacgacagc tgagttacaa actgggatta gataccccac tatgcccagc
-cgtaaacttt aaattacacc acaatcgcca gggaactacg agcaaagctt aaaacccaaa
-ggacttgacg gtatcccata tccacctaga ggagcctgtc ctatcatcga taccccccgc
-taaacctcac cacctctcgc ctactcagcc tgtatacctc cgtcgtcagc ttaccacgtg
-agcgcaactt agtgagctta acgcccatac gccaatacgt caggtcaagg tgcagcaaat
-gaggtgggaa gagatgggct acattctcta atatagaaaa cacgaaagac tacctatgaa
-atctagtctg aaggcggatt tagaagtaaa aagaaaaaag aatgttcttt ttaactcggc
-actggggtgt gtacacaccg cccgtcaccc tcttcaaagc ccccaaaaag taattaacaa
-actcaagcaa cacagaagag gcaagtcgta acatggtaag tataccggaa ggtgtgcttg
-gaaacgaagt gt
->Centrolene_muelleri
-ctgagatgaa ccctaaaaag ttctttaagc acaaaggttt ggtcctagcc ttgtaatcag
-ttattactta atatacacat gcaagtctcc gcacccctgt gagaacgccc ttacaatccc
-cactagggat aaggagctgg tatcaggcac aaccaaactg cccaaaacac ctagctacgc
-cacacccaca agggaactca gcagtgatta acattgagca taagcgacag cttgactcag
-ttaaagtaaa agagagccgg caaatctggt gccagccgcc gcggttacac cacgtggctc
-aaattgattt ccatcggcgt aaagcgtgat taaagcccca gtcccactgg agtcaaacta
-aaactaagct gtgacacgct tgtacttaag aagcccagag acgaaagtta ctccaataca
-acctacttga acccacgaca gctgagccac aaactgggat tagatacccc actatgccca
-gccgtaaact ttaaattaca cccatatcgc ccgggaacta cgagcaaagc ttaaaaccca
-aaggacttga cggtacccca catccaccta gaggagcctg tcctataatc gatacccccc
-gctaaacctc accacttctc gcccactcag cctgtatacc tccgtcgtca gcttaccacg
-tgagcgcaac tcagtgagct caatgcccac acgccaacac gtcaggtcaa ggtgcagcaa
-atgaagtggg aagagatggg ctacactctc taatatagaa aacacgaaag actacctatg
-aaacctagtc caaaggcgga tttagaagta aaaagaaaaa agaatgttct ttttaactcg
-gcactggggt gtgtacacac cgcccgtcac cctcttcaaa gcccccagaa agtaaataac
-taactaacgc aacacagaag aggcaagtcg taacatggta agtataccgg aaggtgtgct
-tggaaacgaa gtgt
->Centrolene_lynchi
-gtttggtcct agcctgtaat caattattac ttaatataca catgcaagtc tccgcacccc
-tgtgaaaacg cccttacaat cccccttagg gataaggagc tggtatcagg cacaaccaaa
-ctgcccaaaa cacctagcta cgccacaccc acaagggaac tcagcagtga ttaacattga
-acataagcga cagcttgact cagttaaagt aaaaagagcc ggcaaatctg gtgccagccg
-ccgcggttac accacgtggc tcaaattgat tcccatcggc gtaaagcgtg attaaagccc
-caaccccatt ggagtcaaac taaaactaag ctgtgacacg cttgtactta agaagcccaa
-agacgaaagt tactccaaca taaaccactt gaacccacga cagctgaact acaaactggg
-attagatacc ccactatgcc cagccgtaaa ctttaaatta cacccatatc gcccgggaac
-tacgagcgaa gcttaaaacc caaaggactt gacggtaccc cacatccacc tagaggagcc
-tgtcctataa tcgatacccc ccgctaaacc tcaccacttc tcgcccgctc agcctgtata
-cctccgtcgt cagcttacca cgtgagcgca actcagtgag ctcaatgccc atacgccaac
-acgtcaggtc aaggtgcagc aaatgaagtg ggaagagatg ggctacactc tctaatatag
-aaaacacgga agactactta tgaaacctag tctaaaggcg gatttagaag taaaaagaaa
-aaagaatgtt ctttttaact cggcactggg gtgtgtacac accgcccgtc accctcttca
-aagcccacag aaagtaaata actaactaac gcaacacaga agaggcaagt cgtaacatg
->Centrolene_heloderma
-tatacacatg caagtctccg cacccctgtg aaaacgccct tacaatcccc gctagggata
-aggagctggt atcaggcaca accaaactgc ccaagacacc tagctacgcc acacccacaa
-gggaactcag cagtgattaa cattgaacat aagcgacagc ttgactcagt taaagtaaaa
-agagccggca aatctggtgc cagccgccgc ggttacacca cgtggctcaa attgatctcc
-atcggcgtaa agcgtgatta aagttccaac cccattggag tcaaactaaa actaagctgt
-gacacgcttg tacttaagaa gcccaaagac gaaagttact ccaatataac ccacttgaac
-ccacgacagc tgagccacaa actgggatta gataccccac tatgctcagc cgtaaacttt
-aaattacacc cgtatcgcca gggaactacg agcaaagctt aaaacccaaa ggacttgacg
-gtaccccaca tccacctaga ggagcctgtc ctataatcga taccccccgc taaacctcac
-cacttctcgc ccattcagcc tgtatacctc cgtcgtcagc ttaccacgtg agcgcaactc
-agtgagctca atgcccatac gccaacacgt caggtcaagg tgcagcaaat gaagtgggaa
-gagatgggct acactctcta atatagaaaa cacggaagac tacttatgaa acctagtcta
-aaggcggatt tagaagtaaa aagaaaaaag aatgttcttt ttaactcggc accggggtgt
-gtacacaccg cccgtcaccc tcttcaaagc ccccagaaag taaataacta actaacgcaa
-tgcagaagag gcaagtcgta acatggtaag tatac
->Centrolene_durrellorum
-ttacttaata tacacatgca agtctccgca cccctgtgaa aacgccctta aatcccccct
-agggataagg agccggtatc aggcacaaca aaaccgccca agacacctag ctacgccaca
-cccacaaggg aactcagcag tgattaacat tgaacataag cgacagcttg attcagttaa
-agtaaaaaga gccggcaaat ctggtgccag ccgccgcggt tacaccacgt ggctcaaatt
-gacttctatc ggcgtaaagc gtgattaaag tccaaccata ttagagttaa actaaaacta
-agctgtgaca cgcttgtact taagaaaccc aaaaacgaaa gttactccaa cttaatcaac
-ttgaactcac gacagctaag acacaaactg ggattagata ccccactatg cttagccgta
-aactttaaat tacacccaaa tcgccaggga actacgagca aagcttaaaa cccaaaggac
-ttgacggtac cccacatcca cctagaggag cctgtcctat aatcgatatc ccccgctaaa
-cctcaccact tttagcctac tcagcctgta tacctccgtc gtcagcttac cacgtgagcg
-caactcagtg agcctaatgc ccatacgcca atacgtcagg tcaaggtgca gcaaataaag
-tgggaagaga tgggctacac tctctaatat agaaaatacg gaagactatt tatgaaacct
-agtctaaagg cggatttaga agtaaaaaga aaaaatgaat gtccttttta actcggcact
-ggggtgtgta cacaccgccc gtcaccctct tcaaagccac taaaaagtaa ataaccacca
-aatgcaagac agaagaggca agtcgtaaca tggtaag
->Centrolene_condor
-agatcagtta ttacttaata tacacatgca agtctccgca cccctgtgaa aacgccctta
-caatcccccc tagggataag gagccggtat caggcacaac caagctgccc aagacaccta
-gctacgccac acccacaagg gaactcagca gtgattaaca ttgagcataa gcgacagctt
-gactcagtta aagtaaaaag agccggcaaa tctggtgcca gccgccgcgg ttacaccacg
-tggctcaaat tgacccctat cggcgtaaag cgtgattaaa gtcccaccac cattagagtc
-aaactaaaac taagctgtga cacgcttgtt cctaagaagc ccaaagacga aagttactcc
-aatataatca acttgaaccc acgacagctg aggcacaaac tgggattaga taccccacta
-tgcccagccg taaactttaa attacaccca tatcgccagg gaactacgag caaagcttaa
-aacccaaagg acttgacggt accccacatc cacctagagg agcctgtcct ataatcgata
-ccccccgcta aacctcacct cttctcgccc cccagcctgt atacctccgt cgtcagctta
-ccacgtgagc gcaactcagt gagctcaatg cccatacgcc aacacgtcag gtcaaggtgc
-agcaaatgaa gtggaaagag atgggctaca ctctctaata tagaaaacac ggaagactac
-ttatgaaacc tagtctaaag gcggatttag aagtaaaaag aaaaaagaat gttcttttta
-actcggcact ggggtgtgta cacaccgccc gtcaccctct tcaaagcccc caaaaagtaa
-ataaccaact aacgcaatac agaagaggca agtcgta
->Centrolene_ballux
-aggtctggtc ctagccttgt aatcagttat tacttaatat acacatgcaa gtctccgcac
-ccctgtgaaa acgcccttac aatccccgct agggataagg agctggtatc aggcacaacc
-aaaccgccca agacacctag ctacgccaca cccacaaggg aactcagcag tgattaacat
-tgaacataag cgacagcttg attcagttaa agtaaaaaga gccggcaaat ctggtgccag
-ccgccgcggt tacaccacgt ggctcaaatt gacctccatc ggcgtaaagc gtgattaaag
-tcccaacccc actggagtca aactaatact aagctgtgac acgcttgtac ctaagaagcc
-caaagacgaa ggttactcca atacaacccg cttgaaccca cgacagctga gtcacaaact
-gggattagat accccactat gctcagccgt aaactttaaa ttacacccat atcgccaggg
-aactacgagc aaagcttaaa acccaaggga cttgacggta ccccacatcc acctagagga
-gcctgtccta caatcgatac cccccgctaa acctcaccac ttctcgccta ctcagcctgt
-atacctccgt cgtcagctta ccacgtgagc gcaactcagt gagctcaatg cccatacgcc
-aacacgtcag gtcaaggtgc agcaaatgaa gtgggaagag atgggctaca ctctctaata
-tagaaaacac ggaaaactac ttatgaaacc tagtctaaag gcggatttag aagtaaaaag
-aaaaaagaat gttcttttta actcggcact ggggtgtgta cacaccgccc gtcaccctct
-tcaaagccca tcagaaagta aataactaac taacgcaaca tagaagaggc aagtcgtaac
-atggtaagta ta
->Centrolene_audax
-aggtttggtc ctgaccttga agtcagttat tacttaatat acacatgcaa gtctccgcac
-ccctgtgaaa acgcccttaa atccccccta gggataagga gccggtatca ggcacaataa
-aactgcccaa gacacctagc tacgccacac ccacaaggga aatcagcagt gattaacatt
-gaacataagc gacagcttga ttcagttaaa gtaaaaagag ccggcaaatc tggtgccagc
-cgccgcggtt acaccacgtg gctcaaattg atctctatcg gcgtaaagcg tgattaaagt
-ccaaccacat tagagttaaa ctaaaactaa gctgtgacac gcttgtactt aagaaaccca
-aaaacgaaag ttactccaac ttaatcaact tgaactcacg acagctaagg cacaaactgg
-gattagatac cccactatgc ttagccgtaa actttaaatt acacccaaat cgccagggaa
-ctacgagcaa agcttaaaac ccaaaggact tgacggtacc ccacatccac ctagaggagc
-ctgtcctata atcgataccc cccgttaaac ctcaccactt ttagcctact cagcctgtat
-acctccgtcg tcagcttacc acgtgagcgc aactcagtga gcctaatgcc catacgccaa
-tacgtcaggt caaggtgcag caaataaagt gggaagagat gggctacact ctctaatata
-gaaaacacga aagactatct atgaaatcta gtctaaaggc ggatttagaa gtaaaaagaa
-aaaatgagtg ttctttttaa cttggcactg gggtgtgtac acaccgcccg tcaccctctt
-caaagccact aaaaagtaaa taaccaccga atgcaagaca gaagaggcaa gtcgtaacat
-ggtaagtata c
->Cochranella_savagei
-ttggtcctga ccttgaaatc agttattact taatatacac atgcaagtct ccgcacccct
-gtgaaaacgc ccttataatc ccctataggg ataaggagct gatatcaggc acaattaaat
-cgcccaaaac atctagctac gccacaccca caagggaact cagcagtgat taacattgag
-cataagcgac agcttgactc agttaaagta aaaagagccg gcaaatctgg tgccagccgc
-cgcggttaca ccacgtggct caaattgact tctatcggcg taaagcgtga ttaaagttct
-atcactactg gagttaaact aagattaagc tgtgacacgc ttgtgtttaa gaaacccaaa
-gacgaaagtt actccaaccc aatcaacttg aacccacgac agctgagtta caaactggga
-ttagataccc cactatgctc agtcgtaaac tttaaattac acctatatcg ccagggaact
-acgagcaaag cttaaaaccc aaaggacttg acggtacccc acatccacct agaggagcct
-gtcctataat cgataccccc cgctaaacct caccacttct cgcccatcca gcctgtatac
-ctccgtcgtc agcttaccac gtgagcgcaa cccagtgagc ctaatgccca tacgccaaca
-cgtcaggtca aggtgcagca aacgaagtgg gaagagatgg gctacactct ctaacataga
-aaatacggaa gactacctat gaaacctagt ctgaaggcgg atttagaagt aaaaagaaaa
-aagaacgttc tttttaactc ggcactgggg tgtgtacaca ccgcccgtca ccctcttcaa
-cagccccaaa aagtaaataa ccaaacaacg caatacagaa gaggcaagtc gtaacatggt
-aagtataccg gaa
->Cochranella_daidalea
-ttggtcctga ccttaatcag ttattactta atatacacat gcaagtctcc gcacccctgt
-gaaaacgccc ttacaatccc ccatagggat aaggagctgg tatcaggcac aattaaaatg
-cccaagacac ctagctacgc cacacccaca agggaactca gcagtgatta acattgaaca
-taagcgacag cttgactcag ttaaagtaaa aagagccggc aaatctggtg ccagccgccg
-cggttacacc acgtggctca aattgacttc tatcggcgta aagcgtgatt aaagttctat
-tattactgga gttaaactaa aattaagctg tgacacgctt gtatttaaga aacccaaaga
-cgaaagttac tccaacctaa ccaacttgaa cccacgacat ctgagttaca aactgggatt
-agatacccca ctatgctcag tcgtaaactt taaattacac ctatatcgcc agggaactac
-gagcaaagct taaaacccaa aggacttgac ggtaccccac atccacctag aggagcctgt
-cctataatcg ataccccccg ctaaacctca ccacttttcg cccattcagc ctgtatacct
-ccgtcgtcag cttaccacgt gagcgcaact tagtgagctt aacgcccata cgccaacacg
-tcaggtcaag gtgcagcaaa tgaagtggga agagatgggc tacactctct aatatagaaa
-acacggaaga ctacttatga aacctagtct aaaggcggat ttagaagtaa aaagaaaaaa
-gaatgttctt tttaactcgg cactggggtg tgtacacacc gcccgtcacc ctcttcaaag
-ccccctaaaa gtaaataacc aaattatgca acacagaaga ggcaagtcgt aacatggtaa
-gtatac
->Centrolene_venezuelense
-caaggtttgg tcctagcctt gtaatcagtt attacttaat atacacatgc aagtctccgc
-acccctgtga aaacgccctt acaatcccca ttagggataa ggagctggta tcaggcacaa
-ccaaactgcc caaaacacct agctacgcca cacccacaag ggaactcagc agtgattaac
-attgaacata agcgacagct tgactcagtt aaagtaaaat agagccggca aatctggtgc
-cagccgccgc ggttacacca cgtggctcaa attgatttcc atcggcgtaa agcgtgatta
-aagtcccaac ccccttggag tcaaactaaa actaagctgt gacacgcttg tacttaagaa
-gcccagagac gaaagttact ccaatacaac ctacttgaac ccacgacagc tgagccacaa
-actgggatta gataccccac tatgcccagc cgtaaacttt aaattacacc catatcgccc
-gggaactacg agcaaagctt aaaacccaaa ggacttgacg gtaccccaca tccacctaga
-ggagcctgtc ctataatcga taccccccgc taaacctcac cacttctcgc ccactcagcc
-tgtatacctc cgtcgtcagc ttaccacgtg agcgcaactc agtgagctca atgcccatac
-gccaacacgt caggtcaagg tgcagcaaat gaagtgggaa gagatgggct acactctcta
-atatagaaaa cacggaagac tacttatgaa acctagtcta aaggcggatt tagaagtaaa
-aagaaaaaag aatgttcttt ttaacttggc actggggtgt gtacacaccg cccgtcaccc
-tcttcaaagc cccccagaaa gtaaataact aactaacgca acacagaaga ggcaagtcgt
-aaca
->Centrolene_pipilatum
-tgagatcagt tattacttaa tatacacatg ccagtctccg cacccctgtg aaaacgccct
-tacaatccct atttgggata aggagctggt atcaggcaca accaaactgc ccaagacacc
-tagctacgcc acacccacga gggaactcag cagtgattaa cattgagcat aagcgacagc
-ttgactcagt taaagtaaaa agagccggca awtctggtgc cagccgccgc ggttacacca
-cgtggctcaa attgacctct atcggcgtaa agcgtgatta aagtcccacc cccattagag
-tcaaactaaa actaagctgt gacacgcttg tacttaagaa gcccaaaaac gaaagttact
-ccaatacaac caacttgaac ccacgacagc tgagccacaa actgggatta gataccccac
-tatgctcagc cgtaaacttt aaattacacc catatcgcca gggaactacg agcaaagctt
-aaaacccaaa ggacttgacg gtaccccaca tccacctaga ggagcctgtc ctataatcga
-taccccccgt taaacctcac cacttctcgc ccactcagcc tgtatacctc cgtcgtcagc
-ttaccacgtg agcgcaactc agtgagctca atgcccatac gccaacacgt caggtcaagg
-tgcagcaaat gaagtgggaa gagatgggct acactctcta tatagaaaac acgaaagact
-acctatgaaa cctagtctaa aggcggattt agaagtaaaa agaaaaagaa tgttcttttt
-aactcggcac tggggtgtgt acacaccgcc cgtcaccctc ttcaaggccc ccaaaaagta
-aataactaac taacgcgaca cagaagaggc aagtcgtaac atggtaagta tac
->Centrolene_peristictum
-ttggtcctga ccttggattc agttattact taatatacac atgcaagtct ccgcacccct
-gtgaaaacgc ccttataatc cccaataggg ataaggagct ggtatcaggc acaatcaaac
-cgcccaagac acctagctac gccacaccca caagggaatt cagcagtgat taacattgag
-cataagcgac agcttgactc agttaaagta aaaagagccg gcaaatctgg tgccagccgc
-cgcggttaca ccacgtggct caaattgacc tctatcggcg taaagcgtga ttaaagttct
-attattactg gaattaaact aaaattaagc tgtgacacgc ttgtatttaa gaagtacaaa
-gacgaaagtt attccaactc aaccaacttg aacccacgac agctgagtta caaactggga
-ttagataccc cactatgctc agtcgtaaac tttaaattac acccacatcg ccagggaact
-acgagcaaag cttaaaaccc aaaggacttg acggtacccc acatccacct agaggagcct
-gtcctataat cgataccccc cgctaaacct caccacttct cgcccattca gcctgtatac
-ctccgtcgtc agcttaccac gtgagcgcaa ctcagtgagc ctaatgccca tacgccaaca
-cgtcaggtca aggtgcagca aacgaagtgg gaagagatgg gctacactct ctaatataga
-aaatacggaa gactacctat gaaacctagt ctaaaggcgg atttagaagt aaaaagaaaa
-aagaatgtcc tttttaactc ggcactgggg tgtgtacaca ccgcccgtca ccctcttcaa
-agcccccaaa aagtaaataa ccaaaaaatg caatacagaa gaggcaagtc gtaacatggt
-aagtatacc
+>Centrolene_grandisonae
+aagagcccct atcgacaagt gggtttacga cctcgatgtt ggatcagggt atcccggtgg
+tgcagccgct accaaaggtt cgtttgttca acgattaaaa ccctacgtga tctgagttca
+gaccggagta atccaggtca gtttctatct ataaagagct ttctctagta cgaaaggacc
+gaaaaagcat ggcctctata acatataagc cctagctaac aacttatgtc tcaaactcaa
+taaaaactta gccttccatc cccctcaaga aaagagcagt taacgtagta aaacctggta
+ttgcaaaaga cctaagccct tcccatagag gttcaaatcc tctcgttaac tttgaaccta
+tgatttatca tccccaccct ctgctacatt atccccatcc ttctggcagt tgctttcctt
+accctaattg aacgcaaagt cttaggctat atacaacacc gcaaaggacc caatattgta
+ggacctatgg gcctcctcca gccaattgca gacggcgtaa aattgtttat caaagagcct
+gtccgcccag ccacctcatc acaaacacta tttctactaa ccccaaccct ggccctagcc
+ctagcaataa ttatctggac cccattacca atacccattc cactatctaa cataaacttg
+ggggttctat tcattttagc cctctcaagt ctaacagtct actcaatcct tggatcaggg
+tgagcctcaa attcaaaata tgccttaatt ggggccctac gagcagttgc acaaacgatc
+tcatatgaag tcaccctagc tctaattctc ctctgctcca tcctcctctc aggcaacttc
+acactacaaa actttaatat tacccaagag tcaatctgac ttttcatccc aatctggcca
+atagccataa tatgatacat ctcaacccta gcagaaacaa accgggcacc atttgacctc
+actgaaggag agtctgaact tgtctccggc ttcaacgtag aatatgcagg gggcccattt
+gcattatttt ttytggcaga atatgcaaac atcttaatga taaacaccat ctctgcaatt
+atctttatgg gctctgcaag cataatcttt ctccccttta caaccgcatc tctaataact
+aaagctgccc tgctctccat agcattctta tgggttcgga cctca
 >Centrolene_notostictum
-aggagctggt atcaggcaca accaagctgc ccaagacacc tagctacgcc acacccannn
-nggaactcag cagtgattaa cattgaacat aagcgacagc ttgactcant taaagtaaaa
-agagccggca aatctggtgc cagccgccgc ggttacacca cgtggctcaa attgatttcc
-atcggcgtaa agcgtgatta aagccccaac ctcactggag tcaaactaag actaagctgt
-gacacgcttg tacttaagaa gcccaaagac gannnnnnnn ccaatacaac ccacttgaac
-ccacgacagc tgagccacaa actgagatta gataccccac tatgctcagc cgtaaacttt
-aaattacacc catatcgcca gggaactacg agcaaagctt aaaacccaaa ggacttgacg
-gtaccccaca tccacctaga ggagcctgtc ctacaatcga taccccccgc taaacctcac
-cacttctcgc ccactcagcc tgtatacctc cgtcgtcagc ttaccacgtg agcgcaactc
-agtgagctca atgccctata cgccaacacg tcaggtcaag gtgcagcaaa tgaagtggga
-agagatgggc tacactctct aacatagaaa acacggaaga ctacttatga aacctagnnn
-nnnnnnnnnn ntagaagtaa aaagaaaaaa gaatgttctt tttaactcgg cactggggtg
-tgtaca
->Centrolene_hybrida
-ttggtcctga ccttgaaatc agttattact taatatacac atgcaagtct ccgcacccct
-gtgaaaacgc ccttacaatc cccatttggg ataaggagct ggtatcaggc acaaccaaac
-tgcccaagac acctagctac gccacaccca caagggaact cagcagtgat taacattgag
-cataagcgac agcttgactc ggttaaagta aaaagagccg gcaaatctgg tgccagccgc
-cgcggttaca ccacgtggct caaattgatc tctatcggcg taaagcgtga ttaaagtccc
-acccccatta gagtcaaact aaaactaagc tgtgacacgc ttgtacttaa gaagcccaaa
-gacgaaagtt actccaatac aaccaacttg aactcacgac agctgagcca caaactggga
-ttagataccc cactatgccc agccgtaaac tttaaattac acccatatcg ccagggaact
-acgagcaaag cttaaaaccc aaaggacttg acggtacccc acatccacct agaggagcct
-gtcctataat cgataccccc cgttaaacct caccacttct cgcccactca gcctgtatac
-ctccgtcgtc agcttaccac gtgagcgcaa ctcagtgagc tcaatgccca tacgccaaca
-cgtcaggtca aggtgcagca aatgaagtgg gaagagatgg gctacactct ctaatataga
-aaacacggaa gactacctat gaaacctagt ctaaaggcgg atttagaagt aaaaagaaaa
-aagaatgttc tctttaactc ggcactgggg tgtgtacaca ccgcccgtca ccctcttcaa
-ggcccccccc caaaagtaaa taaccaacta acgcgataca gaagaggcaa gtcgtaacat
-ggtaagtata c
->Centrolene_bacatum
-ttggtcctga ccttgaatca gttattactt aatatacaca tgcaagtctc cgcacccctg
-tgaaaacgcc cttacaatcc ccactaggga taaggagctg gtatcaggca caaccaaact
-gcccaagaca cctagctacg ccacacccac aagggaactc agcagtgatt aacattgagc
-ataagcgaca gcttgactca gttaaagtaa aaagagccgg caaatctggt gccagccgcc
-gcggttacac cacgtggctc aaattgatct ctgtcggcgt aaagcgtgat taaagtccca
-ccccccacta gagtcaaact aaaactaagc tgtgacacgc ttgtacttaa gaagcccaaa
-gacgaaagtt actccagtat aaccaacttg aacccacgac agctgagcca caaactggga
-ttagataccc cactatgccc agccgtaaac tttaaattac acccatatcg ccagggaact
-acgagcaaag cttaaaaccc aaaggacttg acggtacccc acatccacct agaggagcct
-gtcctataat cgataccccc cgctaaacct caccacttct cgcccactca gcctgtatac
-ctccgtcgtc agcttaccac gtgagcgcaa ctcagtgagc ttaatgccca tacgccaaca
-cgtcaggtca aggtgcagca aatgaagtgg gaagagatgg gctacactct ctaatataga
-aaacacggaa gactatctat gaaacctagt ctaaaggcgg atttagaagt aaaaagaaaa
-aagaatgttc tttttaactc ggcactgggg tgtgtacaca ccgcccgtca ccctcttcaa
-ggcccccaaa aagtaaataa ctaacaaacg caatacagaa gaggcaagtc gtaacatggt
-aagtataccg g
->Centrolene_antioquiense
-ctgaccttga attcagttat tacttaatat acacatgcaa gtctccgcac ccctgtgaaa
-acgcccttat aatccccaat agggataagg agctggtatc aggcacaatc aaaccgccca
-agacacctag ctacgccaca cccacaaggg aattcagcag tgattaacat tgagcataag
-cgacagcttg actcagttaa agtaaaaaga gccggcaaat ctggtgccag ccgccgcggt
-tacaccacgt ggctcaaatt gacctctatc ggcgtaaagc gtgattaaag ttctattatt
-actggagtta aactaaaatt aagctgtgac acgcttgtat ttaagaagta caaagacgaa
-agttactcca acccaaccaa cttgaaccca cgacagctga gttacaaact gggattagat
-accccactat gctcagtcgt aaactttaaa ttacacccac atcgccaggg aactacgagc
-aaagcttaaa acccaaagga cttgacggta ccccacatcc acctagagga gcctgtccta
-taatcgatac cccccgctaa acctcaccac ttctcgccca ttcagcctgt atacctccgt
-cgtcagctta ccacgtgagc gcaactcagt gagcctaatg cccatacgcc aacacgtcag
-gtcaaggtgc agcaaacgaa gtgggaagag atgggctaca ctctctaata tagaaaacac
-ggaagactac ttatgaaacc tagtctaaag gcggatttag aagtaaaaag aaaaaagaat
-gtccttttta actcggcact ggggtgtgta cacaccgccc gtcaccctct tcaaagcccc
-caaaaagtaa ataaccaaaa aatgcaaaac agaagaggca agtcgtaaca tggtaagtat
-accgga
+ttgaacccca tacttatcat ccccaccctg tgctacatta tccccatcct cctggcagtt
+gccttcctca ccctaattga gcgcaaagtt ttaggctata tacaacatcg aaaaggacca
+aatattgtag gcccaatagg acttcttcaa ccaattgcag acggagtaaa actatttatt
+aaggagccca tccgcccagc cacctcctca caagccttat tcctattagc cccaacactg
+gccttcgccc tagcaataat tatctgaact cccctgccca tgcccatctc cctctcagat
+ataaacctag gaattttatt tatcctagct ctttcaagcc tgacagttta ctcgatcctt
+gggtcaggat gagcatctaa ctcaaaatac gccctaatcg gggcactacg agcagttgca
+caaacaatct cttatgaggt cactcttgcc ttaattcttc tctgcactat ccttctctcc
+ggcaatttca ccttacaaaa cttcagcgtc acacaagagt caacctgact tcttatcccc
+atctgacccc tagccatgat atggtatatt tcgaccctag cagaaaccaa ccgagcgccc
+tttgacctca ccgaaggtga atctgaactt gtctccggct ttaatgtaga atacgcagga
+ggcccatttg cactattttt ccttgcagaa tacgcaaaca tcctaataat aaacaccatt
+tcctcaatca tttttctggg ctctgcagct ataatatttc ttccactcac aaccgtgtct
+ttaatgacca aagcagccct actttcaata gcattcttat gggtccgagc ctctta
 >Centrolene_altitudinale
-caaggtttgg tcctagcctt gtaatcagtt attacttaat atacacatgc aagtatccgc
-acccctgtga aaacgccctt acaatcccca ctagggataa ggagctggta tcaggcacaa
-tcaagctgcc caagacacct agctacgcca cacccacaag ggaactcagc agtgattaac
-attgaacata agcgacagct tgactcagtt aaagtaaaaa gagccggcaa atctggtgcc
-agccgccgcg gttacaccac gtggctcaaa ttgatttcta tcggcgtaaa gcgtgattaa
-agtcccaacc ccactggagt caaactaaga ctaagctgtg acacgcttgt acttaagaag
-cccaaagacg aaagttactc caatacaacc cacttgaacc cacgacagct gagccacaaa
-ctgggattag ataccccact atgctcagcc gtaaacttta aattacaccc atatcgccag
-ggaactacga gcaaagctta aaacccaaag gacttgacgg taccccacat ccacctagag
-gagcctgtcc tacaatcgat accccccgct aaacctcacc acttctcgcc cactcagcct
-gtatacctcc gtcgtcagct taccacgtga gcgcaactca gtgagctcaa tgccctatac
-gccaacacgt caggtcaagg tgcagcaaat gaggtgggaa gagatgggct acactctcta
-acatagaaaa cacggaagac tacttatgaa acctagtcta aaggcggatt tagaagtaaa
-aagaaaaaag aatgttcttt ttaactcggc actggggtgt gtacacaccg cccgtcaccc
-tcttcaaagc ccatcagaaa gtaaataact a
->Cochranella_balionota
-attacttgat atacacatgc aagtctccgc acccctgtga aaacgccctt aaatcccccc
-tagggataag gagctggtat caggcacaac taaactgccc aaaacaccta gctacgccac
-acccacaagg gaactcagca gtgattaaca ttgagcataa gcgacagctt gactcagtta
-aagtaaaaag agccggcaaa tctggtgcca gccgccgcgg ttacaccacg tggctcaaat
-tgatccccct cggcgtaaag cgtgattaaa gttctacccc cattggggcc aaactaagac
-taagccgtga cacgcttgta cttaagaagc tcaaagacga aagttacccc aatttaaaca
-acttgaaccc acgacagctg agacacaaac tgggattaga taccccacta tgctcagccg
-taaaccttaa attacaccca ccatcgccag gggactacga gcaaagctta aaacccaaag
-gacttgacgg taccccacat ccacctagag gagcctgtcc tacaatcgat accccccgct
-aaacctcacc acttctagcc tactcagcct gtatacctcc gtcgtcagct taccacgtga
-gcgcaactca gtgagcccaa tgcccatacg ccaacacgtc aggtcaaggt gcagcaaatg
-aagtgggaag agatgggcta cactctctaa tatagaagat acgaaagact atctatgaaa
-cctagtctaa aggcggattt agaagtaaaa aggaaaaacg aatgtccttt ttaacttggc
-actggggtgt gtacacaccg cccgtcaccc tcttcaaagc taccaaaaag taaataaccc
-actatcgcac aacagaagag gcaagtcgta acatgg
->Cochranella_guayasamini
-caaaggtttg gtcctgacct tgaaatcagt tattacttaa tatacacatg caagtttccg
-catccctgtg aaaacgccct taaatccctt ttagggataa ggagctggta tcaggcacaa
-caaaactgcc caagacacct agctatgcca cacccacaag ggaactcagc agtgattaac
-attgaacata agcgacagct tgactcagtt atagtaaaaa gagccggcaa atctggtgcc
-agccgccgcg gttacaccac gtggctcaaa ttgatcttta tcggcgtaaa gcgtgattaa
-nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
-ctgggattag ataccccact atgcttagcc gtaaacttta aattacaccc aaatcgccag
-ggaactacga gcaaagctta aaacccaaag gacttgacgg taccccacat ccacctagag
-gagcctgtcc tataatcgat acccctcgct aaacctcacc acttttagcc taatcagtct
-gtatacctcc gtcgtcagct taccacgtga gcgtgaatta gtgagcttaa tgcccatacg
-ccaacacgtc aggtcaaggt gcagcaaata aagtgggaag agatgggcta cactctctaa
-catagaaaac acagaagact acctatgaaa cctagtctaa aggcggattt agaagtaaaa
-agaaaaaaga atgtcctttt taactcggca ctggggtgtg tacacaccgc ccgtcaccct
-cttcaaagcg accaaaaagt aaataactac ctaatgcaac acagaagagg caagtcgtaa
-catggtaagt ataccggaag gtgtgcttgg aaacgaagtg t
->Cochranella_erminea
-gaccttaaaa agtcctttag acacaaaggt ttggtcctga ccttgaaatc agttattact
-taatatacac atgcaagttt ccgcacccct gtgaaaacgc ccttaaatcc cctctaggga
-taaggagctg gtatcaggca caaaaccgcc caagacacct agctatgcca cacccacaag
-ggaactcagc agtgattaac attggacata agcgacagct tgattcagtt atagtaaaaa
-gagccggcaa atctggtgcc agccgccgcg gttacaccac gtggctcaaa ttgatctcta
-tcggcgtaaa gcgtgattaa agttccccct tcattagagt taaactaaaa ctaagctgtg
-acacgcttgt gcttaagaaa cccaaaaacg aaagttactc caactcaacc aacttgaact
-cacgacagct aagaaacaaa ctgggattag ataccccact atgcttagcc gtaaacttta
-aattacaccc aaatcgccag ggaactacga gcaaagctta aaacccaaag gacttgacgg
-taccccacat ccacctagag gagcctgtcc tataatcgat accccccgct aaacctcacc
-acttttagcc tattcagcct gtatacctcc gtcgtcagct taccacgtga gcgtaaatta
-gtgagcttaa tgcccatgcg ccaacacgtc aggtcaaggt gcagcaaata aagtggaaag
-agatgggcta cactctctaa catagaaaac acggaagact acctatgaaa cctagtctaa
-aggcggattt agaagtaaaa agaaaaaaga atgttctttt taactcggca ctggggtgtg
-tacacaccgc ccgtcaccct cttcaaagca accaaaaagt aaataaccac ctaatgcaac
-acagaagagg caagtcgtaa catggtaagt ataccggaag gtgtgcttgg aaacgaagtg
+ttgaacccca tactcatcat ccccaccctg tgctacatta tccccatcct cctggcagtt
+gccttcctca ccctaattga gcgcaaagtt ttaggctaca tacaacatcg aaaaggacca
+aatattgtag gcccaatagg acttcttcaa ccaattgcag acggagtaaa actatttatt
+aaggaaccca tccgcccagc cacctcctca caagccctat tcctattaac cccaacgctg
+gccttcgctc tagcaataat tatctggacc cccctgccca tgcccatctc cctatcagat
+ataaacctag gaattttatt tatcctagcc ctttctagcc taacagttta ctcaatcctt
+ggatcaggat gagcatctaa ctcaaaatac gccctaatcg gggcactacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ttaattcttc tctgcactat ccttctctcc
+ggcaatttca ccctacaaaa cttcaacatc acgcaagagt caacctgact cctcatcccc
+atctgaccca tagccataat atggtatatc tcaaccctag cagaaaccaa ccgagcaccc
+tttgacctca ccgaaggcga atctgagctc gtctccggct ttaatgtaga atacgcagga
+ggcccatttg cactattttt tcttgcagaa tacgcaaaca tcctaataat aaacaccatt
+tcctcaatca tttttctggg ctctgcaact ataatatttc ttccactcac aaccatgtct
+ttaatgacca aagcagccct actttcgata gcattcttat gggtccgagc ctcttac
+>Centrolene_peristictum
+ttgaatctct tatttattat ccccaccctc tgctacatcg ttccaattct tctggcagtt
+gctttcctca ccctaatcga acgtaaagtc ttaggatata tgcaacaccg aaaaggacct
+aatatcgtag gccctatagg cctccttcag ccaattgcag atggggtaaa actatttatt
+aaagagccca tccgcccagc tacctcctca caaactttat ttttgttaac cccaacctta
+gcttttgccc tggcaataat tatttgaacc cctctgccaa taccgatctc cctatcagac
+ataaacttag gaattttgtt tattttagcc ctctcaagtt taaccgtcta ctccattctc
+gggtcaggct gggcatccaa ctcaaaatac gccttaattg gggccttacg ggcagttgca
+caaacaattt catatgaagt caccctcgcc ctaattcttc tctgcgctat tcttctctca
+ggcaacttta cattgcaaaa cttcaacact acacaagaat caatctgact ctttatcccc
+atctgaccaa tagccataat atgatatatt tcaactttag ctgaaaccaa ccgggcacca
+tttgacctta ctgaaggcga atctgaactt gtctccgggt ttaatgtgga gtatgcaggt
+ggaccatttg cattattctt tcttgcagaa tacgcaaata tcttaataat aaataccatc
+tctgcaatta tcttcttagg ttcagcagca ataatttttc tccctcttac aacagtgtcc
+ctaataacca aagctgcctt actttcaata gcatttttat gagttcgagc ttcttaccca
+cgatttcgct atgaccacct aatacacctg gactgaaaaa acttcctccc cctaacccta
+gcccttacca tttgacatat tgccctccca atttcattta tgtatacccc accaattaca
 t
->Cochranella_adenocheira
-gaccctaaaa agtcctttaa acacaaaggt ttggtcctaa ccttgtaatc agttattact
-taatatacac atgcaagttt ccgcacccct gtgaaaacgc ccttaaattc cccattaggg
-acaaggagcc ggtatcaggc acaataagct gcccaagaca cctagctacg ccacacccac
-aagggaactc agcagtgatt aacattgaac ataagcgaca gcttgactca gttaaagtaa
-aatagagccg gcaaatctgg tgccagccgc cgcggttaca ccacgtggct caaattgatt
-tctatcggcg taaagcgtga ttaaagtctg cccaccacta gagttaaact aaaactaagc
-tgtgacacgc ttgtgtttaa gaaacccaaa aacgaaagtt actccacctc aatcaacttg
-aactcacgac agctaagaca caaactggga ttagataccc cactatgctt agccgtaaac
-tttaaattac accaaaatcg ccagggaact acgagcaaag cttaaaaccc aaaggacttg
-acggtacccc atatccacct agaggagcct gtcctacaat cgataccccc cgctaaacct
-caccactttt agcccactca gcctgtatac ctccgtcgtc agcttaccac gtgagcgcaa
-ttcagtgagc ctaacgccca tacgccaata cgtcaggtca aggtgcagca aataaagtgg
-gaagagatgg gctacactct ctaatataga aaatacgaaa gactacctat gaaacctagt
-ctgaaggcgg atttagaagt aaaaagaaaa aagaacgtcc tttttaactt ggcactgggg
-tgtgtacaca ccgcccgtca ccctcttcaa agccaccaaa aagtaattaa ccaacccatg
-caacacagaa gaggcaagtc gtaacacggt aagtataccg gaaggtgtgc ttggaaacgg
-ggtgt
->Rulyrana_erminea
-gaccctaaaa agtcctttaa acacaaaggt ttagtcctga ccttgaaatc agttattact
-taatatacac atgcaagttt ccgcacccct gtgaaaacgc ccttaaatcc cctctaggga
-taaggagctg gtatcaggca caacaaaacc gcccaagaca cctagctatg ccacacccac
-aagggaaatc agcagtgatt aacattgaac ataagcgaca gcttgattca gttatagtaa
-aaagagccgg caaatctggt gccagccgcc gcggttacac cacgtggctc aaattgatat
-ctatcggcgt aaagcgtgat taaagttctc ccttcattag agttaaacta aaactaagct
-gtgacacgct tgtacttaag aaacccaaaa acgaaagtta ctccaactta atcaacttga
-actcacgaca gctaagacac aaactgggat tagatacccc actatgctta gccgtaaact
-ttaaattaca cccaaatcgc cagggaacta cgagcaaagc ttaaaaccca aaggacttga
-cggtacccca tatccaccta gaggagcctg tcctataatc gatacccctc gctaaacctc
-accactttta gcctactcag cctgtatacc tccgtcgtca gcttaccacg tgagcgtgaa
-tcagtgagct taatgcccgt acgccaacac gtcaggtcaa ggtgcagcaa ataaagtggg
-aagagatggg ctacactctc taacatagaa aacacggaag actacctatg aaatctaatc
-taaaggcgga tttagaagta aaaagaaaaa agaatgtcct ttttaactcg gcactggggt
-gtgtacacac cgcccgtcac cctcttcaaa gcaaccaaaa agtaaataac cacctaatgc
-aacacagaag aggcaagtcg taacatggta agtacaccgg aaggtgtgct tggaaacgaa
-gtgtagctta accaa
->Centrolene_litorale
-ttggtcctga tcttgaatca gttattactt aatatataca tgcaagtatc cgcacccctg
-tgaaaacgcc cttaaatccc ccttagggat aaggagctga tatcaggcac aacaaacctg
-cccaagacat ctagctacgc cacacccaca agggaactca gcagtaatta acattgaaca
-taagcgacag cttgattcag ttaaagtaaa aagagccggc aaatctggtg ccagccgccg
-cggttacacc acgtggctca aattgatctc tatcggcgta aagcgtgatt aaagctcttc
-tcctattaaa gttaaactaa aactaagctg tgacacgctt gtgtttaaga aacccaaaaa
-tgaaagttac tttaatttaa tcaacttgaa ttcacgacag ctaagacaca aactgggatt
-agatacccca ctatgcctag ccgtaaactt taaattacac ccaaatcgcc agggaactac
-gagcaaagct taaaacccaa aggacttgac ggtaccccac atccacctag aggagcctgt
-cctataatcg atacccctcg ctaaacctca ccacttttag cctactcagt ctgtatacct
-ccgtcgtcag cttaccacgt gagcgtaact cagtgagctt aatgcccata cgccaatacg
-tcaggtcaag gtgcagcaaa taaagtggga agagatgggc tacactttct actatagaaa
-acacggaaga ctacctatga aacctagtct aaaggcggat ttagaagtaa aaagaaaaaa
-gaatgtcctt tttaactcgg cactggggtg tgtacacacc gcccgtcacc ctcttcaaag
-ctaccaaaga gtaaataact aactaatgca acacagaaga ggcaagtcgt aacatggtaa
-gtataccgga a
->Cochranella_nola
-accttgaaat cagttattac ttaagtatac acatgcaagt ctccgcatcc ctgtgaaaac
-gcccttaaat ccccactagg gataaggagc cggtatcagg cacaacaaaa ctgcccaaaa
-cacctagcta cgccacaccc acaagggaac tcagcagtga ttaacattga acataagcga
-cagcttgatt cagttatagt aagaagagcc ggcaaatctg gtgccagccg ccgcggttac
-accacgtggc tcaaattgat ctctatcggc gtaaagcgtg attaaagttc ctcctaaatt
-agagttaaac taagactaag ctgtgacacg cttgtgctta agaaacccaa aaacgaaagt
-tactccaact taatcaactt gaactcacga cagctaagac acaaactggg attagatacc
-ccactatgct tagccgtaaa ctttaaatta cacccaaatc gccagggaac tacgagcaaa
-gcttaaaacc caaaggactt gacggtaccc cacatccacc tagaggagcc tgtcctataa
-tcgatacccc ccgctaaacc tcaccacttt tagcctactc agcctgtata cctccgtcgt
-cagcttacca cgtgagcgta actcagtgag cttaatgccc gtacgccaat acgtcaggtc
-aaggtgcagc aaataaagtg ggaagagatg ggctacactc tctaacatag aaaatacgga
-agactaccta tgaaatctag tctaaaggcg gatttagaag taaaaagaaa aaagaatgtt
-ctttttaacc tggcactggg gtgtgtacac accgcccgtc accctcttca aagccatcaa
-aaagtaaata actaactaat gcaatacaga agaggcaagt cgtaacatgg taagtatacc
-ggaa
->Cochranella_mache
-ctggtcctga ccttgaagtc agttattact taatatacac atgcaagtct ccgcacccct
-gtgaaaacgc ccttaaatcc cctctaggga taaggagccg gtatcaggca caacaaaact
-gcccaagaca cctagctacg ccacacccac aagggaactc agcagtgatt aacattgaat
-ataagcgaca gcttgattca gttacagtaa aaagagccgg caaatctggt gccagccgcc
-gcggttacac cacgtggctc aaattgatat ctatcggcgt aaagcgtgat taaagtcatt
-cttctattag agttaaacta aaactaagct gtgacacgct tgtgcttaag aaacccaaaa
-acgaaagtta ctccaactca accaacttga actcacgaca gctaagaaac aaactgggat
-tagatacccc actatgctta gccgtaaact ttaaattaca cctataatcg ccagggaact
-acgagcaaag cttaaaaccc aaaggacttg acggtatccc acatccacct agaggagcct
-gtcctataat cgatacccct cgctaaacct caccactttt agcttagtca gcctgtatac
-ctccgtcgtc agcttaccac gtgagcgtaa atcagtgagc taaatgccca tacgccaaca
-cgtcaggtca aggtgcagca aataaagtgg gaagagatgg gctacactct ctaatataga
-aaatacgaaa gactatttat gaaatctagt ctgaaggcgg atttagaagt aaaaaggaaa
-aagaatgtcc tttttaactc ggcactggga tgtgtacaca ccgcccgtca ccctcttcaa
-agccaccaaa aagtaaataa ccacctaatg caagacagaa gaggcaagtc gtaacatggt
-aagtataccg gaa
->Cochranella_granulosa
-caaggtttgg tcctgacctt gaaatcaatt attacttaat atacacatgc aagtctccgc
-acccctgtga aaacgccctt aaatccccct tagggataag gagccggtat caggcacaac
-aaactgccca agacacctag ctatgccaca cccacaaggg aactcagcag tgattaacat
-tgaacataag cgacagcttg attcagttat agtaaaaaga gccggcaaat ctggtgccag
-ccgccgcggt tacaccacgt ggctcaaatt gacttctatc ggcgtaaagc gtgattaaag
-tctttccccc attagagtta aactaaaact aagctgtgac acgcttgttc ttaagaagcc
-cgaaaacgaa agttactcca acttaaccaa cttgaactca cgacagctaa gatacaaact
-gggattagat accccactat gcttagccgt aaactttaaa ttacacccaa atcgccaggg
-aactacgagc aaagcttaaa acccaaagga cttgacggta ccccacatcc acctagagga
-gcctgtccta taatcgatac cccccgttaa acctcaccac ttttagccta ttcagcctgt
-atacctccgt cgtcagctta ccacgtgagc gtaaaccagt gagcttaatg cccgtacgcc
-aatacgtcag gtcaaggtgc agcaaataaa gtgggaagag atgggctaca ctctctaatt
-tagaaaatac aaaagactac ctatgaaacc tagtctgaag gcggatttag aagtaaaaag
-aaaaaagaat gtccttttta acttggcact ggggtgtgta cacaccgccc gtcaccctct
-tcaaagctaa aataaagtaa ataaccacct aatgcaatac agaagaggca agtcgtaaca
-tggtaagtat accggaa
->Cochranella_euknemos
-gaccttgaaa tcagttatta cttaatatac acatgcaagt ctccgcaccc ctgtgaaaac
-gcccttaaat cccccctagg gataaggagc cggtatcagg cacaacaaaa ctgcccaaga
-cacctagcta cgccacaccc acaagggaac tcagcagtga ttaacattga atataagcga
-cagcttgatt cagttacagt aaaaagagcc ggcaaatctg gtgccagccg ccgcggttac
-accacgtggc tcaaattgat atctatcggc gtaaagcgtg attaaagcct ctcttctatt
-agagttaaac taaaactaag ctgtgacacg cttgtgttta agaaacccaa aaacgaaagt
-tactccaact caatcaactt gaactcacga cagctaagaa acaaactggg attagatacc
-ccactatgct tagccgtaaa ctttaaatta cacccaaatc gccagggaac tacgagcaaa
-gcttaaaacc caaaggactt gacggtatcc cacatccacc tagaggagcc tgtcctataa
-tcgatacccc tcgctaaacc tcaccacttt tagcttaatc agcctgtata cctccgtcgt
-cagcttacca cgtgagcgta aatcagtgag cttaatgccc atacgccaac acgtcaggtc
-aaggtgcagc aaataaagtg ggaagagatg ggctacactc tctaacatag aaaacacgaa
-agactactta tgaaatctag tctgaaggcg gatttagaag taaaaaagaa aaagaatgtc
-ttttttaact cggcactggg atgtgtacac accgcccgtc accctcttca aagccactaa
-aaagtaaata accacctaat gcaacacaga agaggcaagt cgtaacatgg taagtctacc
-ggaa
+>Cochranella_savagei
+ttgaatctct tatttattat ccccaccctc tgctacattg ttccaattct tctggcagtt
+gctttcctca ccctaattga acgcaaagtc ttaggttata tacaacatcg gaaaggacca
+aatatcgtag gtccaatagg ccttcttcaa ccaattgcag atggggttaa actatttatt
+aaagaaccca tccgcccagc cacctcctca caaaccctat ttctactaac ccctacttta
+gccttcgcct tagcaataat tatctgaacc cctctaccaa taccaatttc cctatcagac
+ataaacttag gaattttatt tatcttagcc ctctcaagtt taaccgtata ctccattctt
+ggatcgggct gagcatccaa ctctaaatat gccttaattg gagccctacg agcagttgca
+caaacaatct catatgaagt caccctagcc ctaattcttc tttgcaccat cctcctctca
+ggcaatttta cactacaaaa tttcaacatt acacaggaat caatctgact ctttatcccc
+atctgaccta tagccataat atgatatatt tcaaccctag ctgaaactaa ccgagcgcca
+tttgacctca ctgaaggaga atctgaactt gtctcagggt tcaacgtaga atatgcaggt
+ggaccatttg cattattttt tcttgcagaa tacgcaaata ttctaataat aaataccatt
+tctgcaatta ttttcttagg ctcagcagca ataatctttc taccccttac aactgtctcc
+ttgataacta aagccgcctt actttcaatg gcattcttat gggttcgagc ttcttatcca
+cgattccggt acgaccaact aatacaccta gtctgaaaaa actttcttcc cctaaccctt
+gcccttacta tttgacacat tgccctccca atttccttta tgtatacccc accaattaca
+t
+>Centrolene_bacatum
+ttgaacccat tactcattat tcccacctta tgctacattg ttcccatcct cctggcagtt
+gcttttctca ccctaattga acgcaaagtt ttaggctaca tacagcaccg aaaagggcca
+aacattgtag gcccaatagg actcctccaa ccaattgcag atggggtaaa actatttatt
+aaagaaccca tccgcccagc cacctcatca caaaccctct ttctattaac cccaacacta
+gccttcgccc tagcaataat tatttgaacc cccataccta tgcctatctc cctctcggac
+ataaacctgg ggatcttatt tattctagcc ctctcgagcc taacagttta ctccatcctc
+gggtcaggat gagcatccaa ctcaaaatac gccctaattg gagccctacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctgatcctcc tctgctcgat ccttctctcc
+ggcaatttca ctttacaaaa cttcagcatc acccaagaat cgatctgact tcttattccc
+atctgacctc tagccataat gtgatttatc tcgaccctag cagaaaccaa ccgagcaccc
+tttgacctta ctgagggcga atctgagctt gtctccgggt ttaacgtaga atacgcaggg
+ggcccatttg cactattttt ccttgcagag tacgcaaata tcctaataat aaatgccatc
+tcttcaatca tcttcctggg ctccacagcc ataatctttc tcccacttac aaccataacc
+ttaataacca aagctgccct actttcaata gcatttttat gagttcgagc ctcttaccca
+cgatttcgtt atgaccaact catacaccta gtttgaaaga actttctccc cttaaccctc
+gccctcacca tctgacatat cgccctccca atctccctta tgtatacccc accagtcacc
+t
+>Centrolene_hesperium
+ttgaacccca tattcatcat ccccacccta tgctacatta tccccatcct cctggcagtt
+gccttcctca ccctgattga acgcaaagtc ttaggctata tacaacatcg aaaaggacca
+aacattgtag gcccaatagg actcctccaa ccaattgcag acggggtaaa actattcatt
+aaagaaccca tccgcccagc cacctcctca caaaccttat tcctattagc cccaacactc
+gccttcgctc tagcaatagt tatctggacc cccctgccca tgcccatctc cctatcagat
+ataaacctag gaatcttatt tgtcttagct ctttcgagcc taacagtcta ctctattctc
+ggatcaggat gagcatccaa ctcaaaatat gccctaatcg gagcactacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ttaattcttc tttgctctat ccttctctcc
+ggcaacttca ccctacaaaa cttcaacatc acccaagaat caatctgact ccttatcccc
+atctgaccta tagccataat gtggtatatc tcaacgctag cagaaactaa ccgagcaccc
+tttgacctta ccgagggtga atctgaactt gtctccggat ttaatgtaga atatgcaggg
+ggcccatttg cactgttttt ccttgcagaa tacgcaaaca tcctaataat aaacaccatc
+tcttcagtca tttttctagg ctctgccgcc gtagtatttc ttccatttac aaccatgtcc
+ctaataacca aagcagcctt actctcaata gcattcttat gggtccgagc ctcttatccc
+cgatttcgct acgaccaact catgcaccta gtctgaaaaa actttcttcc attaaccctt
+gccctcacca tttgacacat tgcccttcca atctccctca tgtatacccc accagtcacg
+t
+>Centrolene_antioquiense
+ttgaacctct tattaatcat ccccatccta tgctacatcg ttccaattct tctggcagtt
+gctttcctca ccctaatcga acgtaaagtc ttaggctata tgcaacatcg aaaaggacct
+aatatcgtgg gccctatagg cctccttcaa ccaattgcag atggggtaaa actatttatt
+aaagagccca tccgcccagc cacctcctca caaactttat ttttactaac cccaacctta
+gcttttgccc tcgcaataat tatttgaacc cccctaccaa taccaatctc cctatcagac
+ataaacttag gaattttatt tattttagcc ctctcaagtt taaccgtcta ctccattctc
+ggatcaggct gagcatccaa ctcaaaatat gccttaattg gggccttacg agcagttgca
+caaacaatct catatgaagt caccctagcc ctaatccttc tctgcgctat tcttctctca
+ggcaacttta cattacaaaa cttcaacatt acacaagaat caatctgact ctttatcccc
+atctgaccaa tagccataat atgatatatt tcaaccctag ctgaaaccaa ccgagcacca
+tttgacctta ctgaaggcga atctgaactt gtctccgggt ttaatgtgga atatgcaggt
+ggaccatttg cattattttt tctcgcagaa tacgcaaata ttctaataat aaataccatc
+tctgcaatta tcttcttagg ttcagcagca ataatttttc tccctcttac aaccatatcc
+ctaataacca aggctgcctt actttcaata gcatttttat gagttcgagc ttcttaccca
+cgatttcgct acgaccaact aatacaccta gtctgaaaaa acttccttcc cctaaccctg
+gcccttacca tttgacatat tgccctccca atttcattta tgtatacccc accaattaca
+t
+>Centrolene_pipilatum
+ttgaacccat tacttattat tcccaccttg tgctacattg tccccattct cctggcagtt
+gcttttctta ccctaattga acgcaaagtt ttaggctaca tacaacaccg aaaaggacca
+aacattgtag gcccaatagg actcctccaa ccaattgcag atggagtaaa actatttatt
+aaagaaccca tccgcccagc cacctcatca caaaccctgt tcctattaac cccaacattg
+gccttcgccc tagcaataat catctgaacc cccctaccaa tgcccatctc cctttcggac
+ataaacctag gaatcttatt tattctagcc ctctcaagcc taaccgtcta ctctatcctt
+gggtcagggt gagcgtccaa ctcaaaatac gccctaattg gggcactacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctgattctcc tctgctccat ccttctctct
+ggcaacttca ctttacaaaa cttcagcatt acccaagaat cgatctgact tcttattccc
+atctgaccca tagccataat atgatttatc tcaaccctag cagaaaccaa ccgagcaccc
+tttgacctca cagagggtga atctgagctt gtctccggat ttaacgtaga gtacgcagga
+ggcccgtttg cactattttt ccttgcagaa tacgcaaaca ttctgataat aaatgccatt
+tcttcaatca tcttcctggg ctccgcagcc ataatctttc tcccacttac aaccataact
+ctaataacca aagccgccct actttcgata gcattcttat gagttcgagc ctcttacccc
+cgattccgtt atgaccaact catgcacctc gtctgaaaaa actttcttcc cttaaccctt
+gccctcacca tctgacatat cgccctccca atctccctca tgtatacccc accagtcaca
+t
+>Centrolene_hybrida
+ttgaatccat tactcattat tcccaccttg tgctacattg tccccattct cctggcagtt
+gcttttctca ccctaattga acgcaaagtt ttaggctaca tacagcaccg aaaagggcca
+aatattgtag gcccaatagg actcctccaa ccaattgcag atggggtaaa actatttatt
+aaagaaccca tccgcccagc cacctcatca caaaccctgt tcctattaac cccaacattg
+gccttcgccc tggcaataat tatctgaacc cccctaccca tgcccatctc cctttcggac
+ataaacctgg gaatcttatt tattctagcc ctctcgagcc taacagtcta ctctatcctt
+gggtcagggt gagcatccaa ctcaaaatac gccctaattg gggcactacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctgattctcc tctgctccat tcttctctcc
+ggcaacttca ctttacaaaa cttcagcatt acccaagaac cgatctgact ccttattccc
+atctgaccca tggccataat atggtttatc tcaaccctag cagagaccaa ccgagcaccc
+tttgacctca ctgagggcga atctgaactt gtctccggat ttaacgtaga atacgcagga
+ggcccatttg cactattctt ccttgcagag tacgcaaata ttctaataat aaatgccatc
+tcttcaatca tcttcctggg ctccgcagcc ataatctttc ttccactcac aaccataacc
+ctaataacca aagccgccct actttcgata gcattcttat gggttcgagc ctcttaccca
+cgatttcgtt atgaccaact catacacctc gtctgaaaaa actttctccc cttaaccctc
+gccctcacca tctgacacat tgccctccca atctccctca tgtatacccc accagtcaca
+t
+>Centrolene_venezuelense
+ttgaacctcc tacttattat tcccaccttg tgctacatta tccccatcct cctggcagtt
+gccttcctca ccctaattga acgcaaagtc ttaggctaca tacaacatcg aaaaggacca
+aatattgtag gcccaatagg actcctccaa ccaattgcag acggagtaaa actatttatt
+aaagaaccca tccgcccagc cacctcctca caaaccttat tcctgttaac cccaacgctg
+gccttcgccc tagcaataat tatctgaacc cccctaccca tgcccatctc cctgtcagat
+ataaacctag gaatcttatt tgtcctagcc ctttcaagcc taacagttta ctccatcctc
+gggtcaggat gagcatccaa ctcaaaatat gccctaatcg gagcgctacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctgattcttc tctgctctat tcttctctcc
+ggcaacttca ccttacaaaa cttcagcatc acccaagagt caatctgact ccttatccct
+atctgaccta tagccatgat gtgatatatt tcaaccctag cagaaaccaa ccgagcgccc
+tttgacctta ccgaaggtga atctgagctt gtctccggtt ttaatgtaga atatgcagga
+ggcccatttg cactattctt ccttgcagaa tacgcaaata tcctaataat aaacaccatc
+tcttcaatca tttttctagg ctctgcagcc ataatatttc ttccatttac aaccatatct
+ttaataacca aagcagccct actttcaata gcattcttat gggtccgagc ctcttacccc
+cgatttcgct acgaccaact catgcaccta gtttgaaaaa actttcttcc cttaaccctc
+gcccttacta tttgacacat tgccctccca atttccctca tgtatacccc accaatcaca
+t
+>Centrolene_buckleyi
+ttgaacctca tacttattat tcccaccctg tgctacatta tccccattct cctggcagtt
+gctttcctca ccctaatcga acgcaaagtt ttaggctaca tacaacatcg aaaaggacca
+aatattgtag gcccaatagg actccttcaa ccgattgcag acggagtaaa actatttatt
+aaggaaccca tccgcccagc cacctcctca caaaccttat tcctactaac cccaacgctg
+gccttcgctc tagcaataat catctgaacc ccactgccca tgcccatctc cctgtccgat
+atgaacctgg gaatcttatt tatcctagcc ctttcaagcc taacagttta ctctatcctt
+gggtcagggt gagcatccaa ctcaaaatac gccctaatcg gagcactacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctaattcttc tctgctccat ccttctctcc
+ggcaatttca ccttacaaaa tttcagcatc acccaggaat caatctgact ccttatcccc
+atctgaccta tagctataat atggtatatt tcaaccctag cagaaaccaa ccgagcaccc
+tttgacctca ccgaaggcga atctgagctt gtctccggct ttaatgtaga atacgcagga
+ggcccatttg cactattctt ccttgcagaa tacgcaaaca tcctaataat aaacaccatc
+tcctcaatta tttttctagg ctctacggcc ataatatttc tcccacttac aaccgtgtct
+ttaataacca aagcagccct actctcaata gcattcttat gggtccgagc ctcttaccca
+cgatttcgct acgaccaact catacaccta gtctgaaaaa actttctccc cttaaccctc
+gcccttacta tttgacacat tgccctccca atctccctca tgtatacccc accaatcaca
+t
+>Centrolene_geckoideum
+ttgaatctta tatttattat tcctacccta tgctacattg tcccaattct tctggcagtt
+gcctttctta ccttaattga gcgcaaagtt ctaggataca tgcaacaccg aaaaggaccc
+aatattgtag gcccaatagg cctccttcaa ccaattgcag atggagtaaa actatttatt
+aaagaaccca tccgcccaac cacctcgtca caaaccttat tcttattaac cccaactcta
+gcctttgccc tggcaatgat tatctgaacc cctttgccaa taccaatgtc tctttctgat
+ataaacttag gaattttatt tgttctagcc ctttcaagcc taacagtcta ctccattctc
+gggtcagggt gagcctctaa ttctaaatac gctctaattg gagctttacg agcagttgca
+caaacaatct cttatgaggt caccttagcc ctgatccttt tatgctccat cttactatca
+ggcaatttcc ccctacaaaa cttcaacatc acacaagagt caatttgact tattattcca
+atttgaccca tagcaataat atggtacatt tcaaccttag cagaaactaa ccgagcacca
+tttgacctta ccgaaggcga atctgaactt gtctccggat ttaacgtaga atatgcagga
+ggcccatttg cactattttt tctcgcagaa tacgcaaaca ttttaataat aaacaccatc
+tcctcaatta ttttcctagg ctctgccacc ataatctttc taccccttac aaccatatcc
+ctaataacca aagccgccct actttcaata gtattcttat gagttcgagc ctcttaccca
+cgatttcgct atgaccaact tatacatcta gtctgaaaaa acttcctccc tttaaccctc
+gctctcacta tttgacacat tgccttccca atctccntca tgtatncccc cccaatcaca
+>Centrolene_daidaleum
+ttgaacctct tatttattat tcccaccctg tgctacattg ttccaattct tctggcagtt
+gctttcctta ctctaattga acgcaaagtt ttaggctaca tgcaacatcg gaaggggcct
+aatatcgtag gtccaatagg cctccttcaa ccaattgcag atggggtaaa actatttatt
+aaagaaccca tccgcccagc cacctcctca caaactttat ttctgctaac cccgacccta
+gcttttgcct tagcaataat tatctgaacc cccttaccaa taccaatctc cctatcagac
+ataaacttag gaattttgtt tattctagcc ctctcaagtt taactgtcta ctccattcta
+ggatcaggtt gagcatctaa ctcaaaatat gccctaattg gggctctacg agcagttgca
+caaacaatct catatgaagt taccctcgcc ctgattctcc tctgcaccat tttactttca
+ggaaatttta cattacaaaa cttcaacatc acacaagagt caatctgact atttattccc
+gtttgaccaa tagccataat atgatatatt tcaaccctgg ctgagactaa ccgagcacca
+tttgacctca ccgaaggcga gtctgaactt gtctccgggt tcaatgtaga atatgcaggc
+ggaccgtttg cattattctt tctcgcagaa tatgcaaaca ttctaatgat aaacactatc
+tctgcaatta ttttcttggg ctcagcagca ataatcttct tacctcttac aactatttcc
+ctaataacta aagccgcctt actttcaata gcattcttat gagttcgagc ttcttaccca
+cgattccgat atgatcaact aatacatcta gtctgaaaaa actttcttcc cctaacccta
+gctctcacta tttgacacat tgccctccca atttcmttta mgtatacccc accaakyaca
+w
+>Centrolene_durrellorum
+caacgattaa aaccctacgt gatctgagtt cagaccggag taatccaggt cagtttctat
+ctataaagag ctttttctag tacgaaagga ccgaaaaagc acggccccta taacatataa
+gccctagcta acaacttatg atttacactc aataataact tagcctaaca cgtacctcaa
+gacaagagta gttaacgtag caaaacctgg cattgcaaaa gacctaaacc ctttttacag
+aggttcaaat cctctcgtta actttgaatc tactatctat tattcccacc ctatgctaca
+ttgttcccat ccttctggca gttgcttttc ttaccctaat tgagcgaaaa gttttaggat
+atatacaaca ccgaaaagga cccaatatcg taggccccat aggccttctc caaccaattg
+cagatggggt aaaactattt atcaaagaac ctattcgccc agccacctca tcgcaaaccc
+tattcttatt aaccccaacc ctagccctag ccctagctat aatcatctga accccactgc
+ccataccaat ccccctatct gacatgaacc taggagtttt atttgtttta gccctatcaa
+gcctaacagt gtactcaatt ctagggtcag gatgagcatc caactcaaaa tacgctctaa
+tcggagcatt acgagcagtt gcacaaacta tctcctatga agtcactcta gcattaattc
+ttctttgttc tattcttcta tcag
+>Centrolene_audax
+caacgattaa aaccctacgt gatctgagtt cagaccggag taatccaggt cagtttctat
+ctataaagag ctttctctag tacgaaagga ccgagaaagc acggccccta taacatataa
+gccctagcta acaacttatg atttatactc aataataact tagcctaaca cgtacctcaa
+gacaagagta gttagcgtag caaaacctgg cattgcaaaa gacctaaacc ctttttacag
+aggttcaaat cctctcgtta actttgaacc tactacctat tattcccacc ctatgctaca
+ttgtccccat ccttctggca gttgcttttc ttaccctaat tgagcgaaaa gttttaggat
+atatgcaaca ccgaaaagga cccaatatcg taggccccgt aggccttctt caaccaattg
+cagatggggt aaaactattt attaaagagc ccattcgccc agccacctca tcacaaaccc
+tatttctact aaccccaacc ctagccctag ccctagctat aatcatctga accccgctac
+ccataccaat ccccctctct aacatgaacc taggagtttt atttgtatta gccctatcaa
+gcctaacagt ctactcaatt ttaggatcag gatgagcatc caactcaaaa tacgccctaa
+ttggggcgtt acgagcagtt gcacaaacta tctcctatga ggtcacccta gcattaattc
+ttctttgttc tattcttctg tcaggcaact tcaccctgca aaacttcaat attacacaag
+agccaatctg acttgttatt ccaatctggc caatagccat aatgtgatac atctcaaccc
+tagcagagac taatcgagca ccttttgacc tcactgaagg agagtcagaa cttgtctcag
+gattcaatgt agaatacgca ggaggcccat ttgcgctatt ctttcttgca gagtacgcaa
+atattttaat aataaatacc atctcatcaa tcatcttctt agggtccaca gccatgattt
+ttctcccaat aacaaccata tcccttataa ctaaagccgc cctgctctcc atagtattcc
+tatgaattcg agcctcctac ccacgatttc gttacgacca acttatgcac ctggtatgaa
+aaaacttcct tccactaacc ctcgccctaa ccatctgaca cattgccttt ccaatttccc
+ttatgtacac cccaccaatc acatggaagc gtgcccgaaa gataaggacc tccttgatag
+ggagaacaat aggggttcaa accccctcgc ctc
+>Centrolene_muelleri
+tgaacccccc tgcccatgcc catctcccta tcagatataa acctaggaat cttgtttatc
+ctagcccttt caagcctaac agtttactcc gtcctcggga tcggatgagc atccaactca
+aaatatgccc taatcggagc actacgagca gttgcacaaa caatctctta tgaggtcacc
+cttgccctaa ttcttctctg ctctattctt ctctccggca acttcacctt acaaaacttc
+agcatcaccc aagagtcaat ctgactcctt atccccatct gacctatagc catgatatga
+tatatctcaa ccctggcaga aactaaccga gcaccatttg accttaccga aggcgaatct
+gagcttgtct ccggttttaa tgtagaatat gcaggaggcc catttgcact atttttcctt
+gcagaatacg caaacatcct aataataaac accatctctt caattatttt tctaggctct
+gcagccatag tgtttctccc acttacaacc atgtccttaa taaccaaggc agccctactt
+tcaatagcgt tcttatgggt ccgagcctct tacccccgat ttcgctacga ccaactcatg
+cacctagtct gaaaaaactt tcttccccta accctcgccc ttactatttg acacattgcc
+ctcccaatct ccctcatgta taccccacca gtcacat
+>Centrolene_lynchi
+ttgaacccca tacttatcat ccccaccctg tgctacatta tccccatcct cctggcagtt
+gccttcctca ccctaattga acgcaaagtc ttaggctaca tgcaacatcg aaaaggacca
+aatattgtag gcccaatagg actcctccag ccaattgcag acggagtaaa actattcatt
+aaagaaccca tccgcccagc cacctcctca caaaccttat tcctattagc cccaacactc
+gccttcaccc tagcaataat tatctgaacc cccctaccca tgcccatctc cctatcagac
+ataaacctag gaatcttatt tatcttagcc ctttcaagcc taacagttta ctcaatcctc
+ggatcgggct gagcatccaa ctcaaaatat gccctgatcg gagcgctacg agcagttgca
+caaacaatct cttatgaagt cacccttgcc ctaattcttc tctgctctat tcttctctcc
+ggcaacttca ccttacaaaa cttcaacatc acccaagaac caatctgact ccttattccc
+atttggccca tagccataat atgatatatc tcaaccctag cagaaaccaa ccgagcaccc
+tttgacctta ccgaaggcga atctgagctt gtttccggct ttaatgtaga atacgcagga
+ggcccatttg cactattttt ccttgcagaa tacgcaaaca tcctaataat aaacaccatc
+tcctcaatca tttttctagg ttccgcagcc ataatatttc ttccattcac aaccatgtct
+ttaataacca aagcagccct actttcaatg gcattcttat gggtccgagc ctcttacccc
+cgatttcgct acgaccaact catacaccta gtctgaaaaa attttctccc tttaaccctc
+gcccttacta tttgacacat tgccctccca atttccctca tgtatacccc accagttaca
+t
+>Centrolene_huilense
+ttgaacccca tatacatcat tcccaccctg tgctacatta tccccatcct cctggcagtt
+gctttcctca ccctaattga acgcaaagtc ttaggctaca tacaacatcg aaaaggacca
+aatattgtag gccctatagg actcctccaa ccaattgcag acggagtaaa actgtttatt
+aaagaaccca tccgcccagc cacctcctca caaaccttat tcctattaac cccaacactg
+gcttttgccc tagcaataat tatctgaacc cccctgccca tgcccacctc cctctcagat
+atgaacctag ggatcttgtt tatcttagct ctttcaagtc taacagtcta ctccattctc
+gggtcaggat gagcatccaa ctcaaaatat gctctaatcg gagcgctacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctaattcttc tctgctctat tctcctctcc
+ggcaacttca ccttacaaaa cttcaacgtc acccaagaat caatttgact ccttatcccc
+atctgaccca tagccataat atggtatatt tcaaccctgg cagaaaccaa ccgagccccc
+tttgacctta ccgaaggcga gtctgaactc gtctccggtt ttaatgtaga atacgcaggg
+ggcccgtttg cactattctt ccttgcagaa tacgcaaata tcctaataat aaacaccatc
+tcttcaatca tttttctagg ctctgcagcc ataatatttc ttccgcttac aaccatgtcc
+ttgataacca aagcagccct actttcaata gcattcttat gggtccgagc ctcttacccc
+cgatttcgct acgaccaact tatgcatcta gtctgaaaaa actttcttcc cttaaccctc
+gcccttacta tttggcacat tgccctccca atctccctca tgtatacccc accagtcaca
+t
+>Centrolene_heloderma
+ttgaacccca tacttatcat tcccccccta tgctacatta tccccatcct tttggcagtt
+gccttcctca ccctaattga gcgcaaagtt ttaggttaca tacaacatcg aaaagggcca
+aatattgtag gcccaatagg actcctccaa ccaattgcag acggagtaaa actatttatt
+aaggaaccca tccgcccagc tacctcctca caaaccttgt tcctattaac cccaacgcta
+gccttcgccc tagcgataat tatctgaacc cccctcccca tgcccatctc cctgtcagac
+ataaacctag gaatcttatt tgttctagcc ctctcaagcc taacagttta ctcaatcctt
+gggtcagggt gagcatccaa ctcaaaatac gccctaatcg gagcgctacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctgattcttc tctgctccat ccttctctcc
+ggcaatttca ccctacaaaa cttcagcatc actcaagaat caatctgact cctcatcccc
+atctggccca tggctataat atgatatatt tcaaccctag cagaaaccaa ccgagcgccc
+tttgatctta ccgaaggtga atctgaactt gtctccggtt ttaatgtaga atacgcaggg
+ggcccatttg cactattctt ccttgcagag tacgctaaca tcctaataat aaacaccatc
+tcttcaatca tttttctggg ctctgcggcc ataatctttc ttccgcttac aaccatgtct
+ctaataacca aagcagccct actttcaata gcattcttat gggtccgagc ctcttaccca
+cgatttcgct acgaccaact catacaccta gtctgaaaaa actttcttcc cttaaccctc
+gcccttacca tttgacacat tgccctccca atttccctca tgtatacccc accagtcaca
+t
+>Centrolene_condor
+ttgaacctct tacttgtcat ccccaccctg tgctatatta tccccatcct tctggcagtt
+gcttttctta ccctaattga acgcaaagtt ctaggctaca tacaacatcg aaaagggccc
+aatattgtgg gcccaatggg actccttcaa ccaattgcag acggagtaaa attatttatt
+aaagagccca tccgcccagc cacctcatca caaaccctat ttttactgac cccaacccta
+gccttcgccc tagcaataat tatctgaacc cccctgccca tgcccatctc tctatcagac
+ataaatttag gtatcttatt catcctcgcc ctttcaagcc taacagtcta ctccatcctt
+gggtcaggat gagcatccaa ctcaaaatac gccttaatcg gagccctacg agcagttgca
+caaacaatct catatgaggt cacccttgcc ctaatcctcc tctgctccat ccttctttct
+ggcaacttta ccctgcaaaa cttcagcatt acacaagagt caatctgact tcttgtcccc
+atctgaccaa tagccataat atggtatatc tcaaccctag cagaaaccaa ccgagcaccc
+tttgatctta cagaaggcga atccgagctt gtctcggggt ttaacgtgga atatgcaggg
+ggaccatttg cactattctt tctcgcagaa tacgcaaata ttttaataat aaacaccatt
+tcttcaatca tcttcctagg ctctgcagcc gtaatattcc tcccccttac aaccatatcc
+ttaataacca aagccgccct actttcaata gcattcctgt gggttcgagc ctcttatcca
+cgattccgct acgaccaact tatacaccta gtctggaaaa acttccttcc cctaacccta
+gcccttacta tttgacatat tgccctccca atctccctca tgtatacccc accaattaca
+t
+>Centrolene_ballux
+caacgattaa aaccctacgt gatctgagtt cagaccggag taatccaggt cagtttctat
+ctataaagag ctttttctag tacgaaagga ccgaaaaagc atggcctcta taaaatataa
+gccttagcta ataacttatg actcaaactc aataaaatca tagcctaaca ccaccctcaa
+gacaagagta gttaacgtag caaaacctgg aattgcaaaa gacctaaacc ctttctatag
+aggttcaaat cctctcgtta actttgaacc tcctacttat tattcccacc ctatgctaca
+ttatccccat cctcctggca gttgctttcc tcaccctaat cgaacgcaaa gttttaggct
+acatacaaca tcgaaaagga ccaaatattg taggcccaat aggactcctc caaccaattg
+cagacggggt aaaactattt attaaggagc ccatccgccc agccacctcc tcacaaacct
+tatttctact gaccccaacg ctggccttcg ctctagcaat aattatctga accccactgc
+ccatgcccat ctctctgtca gatataaacc taggaatctt atttatccta gccctttcaa
+gcctaacagt ttactccatc cttggatcag gatgagcatc caactcaaag tacgccctaa
+tcggagcact gcgagcagtt gcacaaacaa tctcttatga ggtcaccctt gccctaattc
+ttctctgctc catccttctc tccggcaatt tcaccctaca aaacttcaac atcacccagg
+aatcaatctg actccttatc cccatctgac ccatagccat gatgtgatat atttcaaccc
+tagcagaaac caaccgagcg ccctttgacc tcaccgaagg cgaatctgag ctcgtctccg
+gctttaatgt agaatacgca gggggcccat ttgcactatt cttccttgca gaatacgcaa
+acatcctaat aataaacacc atctcctcaa ttatctttct gggctccacg gccatgatat
+ttctcccact tacaaccgta tctttaatga ccaaagcagc cctactttca atagcattct
+tatgggtccg agcctcttac ccacgatttc gctacgacca actcatgcac ctagtctgaa
+aaaactttct tcccttaacc ctcgccctta ctatttgaca cattgccctc ccaatctccc
+tcatgtatac cccaccaatc acatggaagc gtgcccgaaa gataaggacc tccttgatag
+ggagaactat aggggctcaa accccctcgc ctcct
+>Centrolene_sabini
+ttgaacccca tacttatcat tcccacctta tgctacatta tccctatcct cctggcagtt
+gcattcctca ccctaattga acgcaaagtc ttaggctaca tacaacatcg aaaaggacca
+aatattgtag gcccaatagg actcctccaa ccaattgcag acggagtaaa actatttatt
+aaagaaccca tccgcccagc tacctcctca caaaccttat ttctattagc cccaacgctg
+gccttcaccc tagcgataat tatctgaacc cccctgccca tgcccatctc cctatcagat
+ataaacctag gaatcttatt tgtcctagcc ctctcaagcc taacagttta ctctatcctc
+ggatcaggat gagcatccaa ctcaaaatat gctctgatcg gagcgctacg agcagttgca
+caaacaatct cttatgaggt cacccttgcc ctaattcttc tctgctctat ccttctctcc
+ggcaacttca ccctgcaaaa cttcaacatc acccaagagt caatctgact ccttattccc
+atttgaccta tagccataat atgatatatt tcaaccctag cagaaaccaa ccgagcaccc
+tttgacctta ccgaaggcga atctgagctt gtctccggct ttaatgtaga atatgcagga
+ggcccatttg cactattttt ccttgcagaa tacgcaaaca tcctaataat aaataccatc
+tcttcaatca tctttctagg ttctgcagcc ataatatttc ttccatttac aaccatgtct
+ttaataacta aagcagccct actttcaatg gcattcttat gggtccgagc ctcttacccc
+cgatttcgct acgaccaact catacaccta gtctgaaaaa attttcttcc cttaaccctc
+gcccttacta tttgacacat cgccctccca atttccctca tgtatacccc accagtcaca
+t
+>Centrolene_savagei
+ttgaatctct tatttattat ccccaccctc tgctacattg ttccaattct tctggcagtt
+gctttcctca ccctaattga acgcaaagtc ttaggttata tacaacatcg gaaaggacca
+aatatcgtag gtccaatagg ccttcttcaa ccaattgcag atggggttaa actatttatt
+aaagaaccca tccgcccagc cacctcctca caaaccctat ttctactaac ccctacttta
+gccttcgcct tagcaataat tatctgaacc cctctaccaa taccaatttc cctatcagac
+ataaacttag gaattttatt tatcttagcc ctctcaagtt taaccgtata ctccattctt
+ggatcgggct gagcatccaa ctctaaatat gccttaattg gagccctacg agcagttgca
+caaacaatct catatgaagt caccctagcc ctaattcttc tttgcaccat cctcctctca
+ggcaatttta cactacaaaa tttcaacatt acacaggaat caatctgact ctttatcccc
+atctgaccta tagccataat atgatatatt tcaaccctag ctgaaactaa ccgagcgcca
+tttgacctca ctgaaggaga atctgaactt gtctcagggt tcaacgtaga atatgcaggt
+ggaccatttg cattattttt tcttgcagaa tacgcaaata ttctaataat aaataccatt
+tctgcaatta ttttcttagg ctcagcagca ataatctttc taccccttac aactgtctcc
+ttgataacta aagccgcctt actttcaatg gcattcttat gggttcgagc ttcttatcca
+cgattccggt acgaccaact aatacaccta gtctgaaaaa actttcttcc cctaaccctt
+gcccttacta tttgacacat tgccctccca atttccttta tgtatacccc accaattaca
+t
+>Cochranella_sp._CBG_1096
+ttgaacctct tactcattat tcccacccta tgttatattg ttccaatcct tctggcagtt
+gcttttctta ccctaattga acgaaaagtt ttagggtaca tacaacatcg taaaggacct
+aatatcgtag gccctatagg acttcttcaa ccaattgcag acggggtaaa actattcatc
+aaagaaccca tccgcccagc cacctcatca caaaccttat tcttattgac tccaacccta
+gccttagccc tagccataat tatttgaacc ccattaccca tgccaacctc cttatctgat
+ataaatctag gcgttttatt tattctagcc ttgtcaagcc taacagtcta ctcaatttta
+ggatccggat gagcatccaa ttctaaatac gccctaattg gggcactacg agcagtcgca
+caaacaatct cctatgaagt caccctagca cttattattc tctgctccat tctcctatca
+ggcaacttca ctctacaaaa ttttaatgtt acacaagaac caatctgact tattattcct
+atctgaccca tagccataat atgatacatt tcaaccctag cagaaactaa ccgagcacca
+tttgacctca ccgaaggaga atctgagctt gtttccgggt ttaatgtaga atacgcagga
+ggccccttcg cattattttt tcttgcagaa tacgcaaaca ttttaatgat aaacaccatt
+tcctcaatca ttttcttagg ttctactacc ataattttcc ttcccctaac aaccgtgact
+cttataacta aagccgccct actctctata gcatttttat gagttcgagc ttcttaccca
+cgattccgtt acgatcaact aatgcattta gtatgaaaaa atttccttcc ccttaccctt
+gccttgacca tctgacatat tgcttttcca atttctctta tgtacacccc accaatcaca
+t
+>Centrolene_fernandoi
+actcaaaaaa agaatttaag ttcaacctaa aattaaccaa atataataaa atattaacct
+tgattttaga gcaattcaaa taaggtacag cctatttgaa aaaggacaca acctagacca
+ccgggtaatt ttaaaactat gctcaacaaa gtgggcctaa aagcagtcac cttctaaaaa
+gcgtcaaagc ttaatcgagc cattaattaa tcccaacatc acctaagaac ccttaaatag
+tattgagtaa ttctatatta ctatagaaaa ttttatgtta aaactagtaa caagaagaag
+aacttctcca ctaatgcaag tgtaaatcag acaggacacc ccgctgataa ttaacaccaa
+tgaacaaaaa gtagcaacct aacaagaaaa ccctactaaa ctagatgtta acctaacacc
+agagcattac aaaaaagatt aaaagaaaga gaaggaactc ggcaaatatt aacctcgccg
+gtttaccaaa aacatcgcct cttgaataaa tataagaggt ccagcctgcc cagtgactct
+gttcaacggc cgcggtatcc taaccgtgcg aaggtagcgt aatcacttgt tctttaaatg
+aggactagta tgaatggcat cacgaaggtt atactgtctc ctctttctaa tcagtgaaac
+taatctcccc gtgaagaagc gggaataaac atataagacg agaagaccct atggagcttt
+aaactatgta acacttgcac ttttacaaca caaatttcag aaaatctatt taattcatgc
+aagattatta ccagttttag gttggggtga ccgcggagca aaaaataacc tccacattga
+aaggaaccta ctccttagcc tagagccaca cctccacgca ccattacaat gacattaatt
+gacccaatat tttgatcaac gaaccaagtt accctaggga taacagcgca atccgcttca
+agagctccta tcgacaagtg ggtttacgac ctcgatgttg gatcagggta tcccggtggt
+gcagccgcta ccaaaggttc gtttgttcaa cgattaaaac cct
+>Centrolene_daidaleum
+aattaaacca acattattta agaaccctta taaactactg agtaattcta tacctttata
+gaagatttta tgttaaaact agtaacaaga agaagagctt ctcttacaat gtaagtgtaa
+atcagatagg acaccccact gataattaac accaatgaat aaaaaatagc aacctggcaa
+gaaaacccta atatatcaka tgttaacctg acaccagagc attacaagaa agattaaaag
+aaaaagaagg aactcggcaa acattaaccc cgcctgttta ccaaaaacat cgcctcttgc
+aaaatataag aggtccagcc tgcccagtga ctctgttcaa cggccgcggt atcctaaccg
+tgcgaaggta gcgtaatcac ttgttcttta aatgaggact agtatgaatg gcaccacgaa
+ggttatactg tctccttttt ctaatcagtg aaactaatct ccccgtgaag aagcggggat
+aattatataa gacgagaaga ccctatggag ctttaaacaa cacaacacct gctctaaccc
+acttaaattt cagaaaaccc cacacctatt tatgcaggat gattgttagt tttaggttgg
+ggtgaccgcg gagtaaaaaa caacctccac attgaagggg ggccaccccc ttagccaaga
+gccacgcctc cacgcaccaa taaaatgaca ttaattgacc caatatattg atcaacgaac
+caagttaccc tagggataac agcgcaatcc acttcaagag cccctatcga caagtgggtt
+tacgacctcg atgttggatc agggtatccc ggtggtgcag ccgctaccaa aggctcgttt
+gtt
+>Centrolene_durrellorum
+aatagtattg agtaattcta tattactata gaaaatttta tgttaaaact agtaacaaga
+agaagaactt ctccactaat gcaagtgtaa atcagacagg acaccccact gataatcaac
+accaatgaac aaaaagtagc aacctaacaa gaaaacccta ctaaactacg tgttaaccta
+acactagagc attacaaaaa agatttaaag aaagagaagg aactcggcaa atattaacct
+cgcctgttta ccaaaaacat cgcctcttga ataaatataa gaggtccagc ctgcccagtg
+actctgttca acggccgcgg tatcctaacc gtgcgaaggt agcgtaatca cttgttcttt
+aaatgaggac tagtatgaat ggcatcacga aggttatact gtctcctctt tctaatcagt
+gaaactaatc tccccgtgaa gaagcgggaa taaacatata agacgagaag accctatgga
+gctttaaact atgtaacact tgcactatta caacacaaat ttcagaaaaa tccactaaac
+ccatgcaaga ttattaccag ttttaggttg gggtgaccgc ggagcaaaaa ataacctcca
+cattgaaagg aacctactcc ttagcctaga gccacacctc cacgcaccat tacaatgaca
+ttaattgacc caatattttg atcaacgaac caagttaccc tagggataac agcgcaatcc
+gcttcaagag ctcctatcga caagtgggtt tacgacctcg atgttggatc aggtatcccg
+gtggtgcagc cgctaccaa
+>Centrolene_audax
+ttaatcgagc cattaattaa tcccaacatc acctaagaac ccttaaatag tattgagtaa
+ttctatacta ctatagaaaa ttttatgtta aaactagtaa caagaagaag aacttctcca
+ctaatgcaag tgtaaatcag acaggacacc ccgctgataa ttaacaccaa tgaacaaaaa
+gtagcaacct aacaagaaaa ccctactaaa ctagatgtta acctaacacc agagcattac
+aaaaaagatt aaaagaaaga gaaggaactc ggcaaatatt aacctcgcct gtttaccaaa
+aacatcgcct cttgaataaa tataagaggt ccagcctgcc cagtgactct gttcaacggc
+cgcggtatcc taaccgtgcg aaggtagcgt aatcacttgt tctttaaatg aggactagta
+tgaatggcat cacgaaggtt atactgtctc ctctttctaa tcagtgaaac taatctcccc
+gtgaagaagc gggaataaac atataagacg agaagaccct atggagcttt aaactatgta
+acacttgcac ttttacaaca caaatttcag aaaaatctat ttaattcatg caagattatt
+accagtttta ggttggggtg accgcggagc aaaaaataac ctccacattg aaaggaacct
+actccttagc ctagagccac acctccacgc accattacaa tgacattaat tgacccaata
+ttttgatcaa cgaaccaagt taccctaggg ataacagcgc aatccgcttc aagagctcct
+atcgacaagt gggtttacga cctcgatgtt ggatcagggt atcccggtgg tgcagccgct
+accaaaggtt cgtttg
+>Centrolene_muelleri
+cgcctcttga taaaatataa gaggtccagc ctgcccagtg actctgttca acggccgcgg
+tatcctaacc gtgcgaaggt agcgtaatca cttgttcttt aaatgaggac tagtatgaat
+ggcaccacga aggttacact gtctcttctt tccaatcagt gaaactaatc tccccgtgaa
+gaagcgagga tgaaaatata agacgagaag accctatgga gctttaaacc acgcaacaac
+tgctttgact aagccaaatt tcagaaaacc cctccttacc ctaacagaat gattgccagt
+tttaggttgg ggtgaccgcg gagcaaaaag caacctccac attgaaaggg cgcctgccct
+tagccaagaa ccacacctcc acgcaccaat aaaatgacat taattgaccc aatatattga
+tcaacgaacc aagttaccct agggataaca gcgcaatcca cttcaagagc ccctatcgac
+aagtgggttt acgacctcga tgttggatca gggtatcccg gtggtgcagc cgctaccaaa
+ggttcgtttg ttcaacgatt aaaaccct
+>Centrolene_lynchi
+agcctgccca gtgactctgt tcaacggccg cggtatccta accgtgcgaa ggtagcgtaa
+tcacttgttc tttaaatgag gactagtatg aatggcacca cgaaggttat actgtctctt
+ctttccaatc agtgaaacta atctccccgt gaagaagcgg ggatgaaaat ataagacgag
+aagaccctat ggagctttaa accacgcaac acctgctttg acttaacnta aatttcagaa
+aacccctctc caccctagca gaatgattgc cagttttagg ttggggtgac cgcggagcaa
+aaaccaacct ccacattgaa agggcacctg ccccttagcc aagagccaca cctccacgca
+ccaataaaat gacattaatt gacccaatat attgatcaac gaaccaagtt accctaggga
+taacagcgca atccacttca agagccccta tcgacaagtg ggtttacgac ctcgatgttg
+gatcanggta tcccggtggt gcagccgcta ccaaaggttc gtttg
+>Centrolene_huilense
+agcctgccca gtgactctgt tcaacggccg cggtatccta accgtgcgaa ggtagcgtaa
+tcacttgttc tttaaatgag gactagtatg aatggcacca cgaaggttac actgtctctt
+ctttccaatc agtgaaacta atctccccgt gaagaagcga ggatgaaaat ataagacgag
+aagaccctat ggagctttaa accacgcaac acctgctttg actaagcnca aatttcagaa
+aacccctcct taccctagca ggatgattgc cagttttagg ttggggtgac cgcggagcaa
+aaagcaacct ccacattgaa agggcgcctg ccccttagcc aagaaccaca cctccacgca
+ccaataaaat gacattaatt gacccaatat attgatcaac gaaccaagtt accctaggga
+taacagcgca atccacttca agagccccta tcgacaagtg ggtttacgac ctcgatgttg
+gatcagggta tcccggtggt gcagccgcta ccaaaggttc gtttg
+>Centrolene_heloderma
+agcctgccca gtgactctgt tcaacggccg cggtatccta accgtgcgaa ggtagcgtaa
+tcacttgttc tttaaatgag gactagtatg aatggcacca cgaaggttat actgtctctt
+ctttccaatc agtgaaacta atctccccgt gaagaagcga ggatgaaaat ataagacgag
+aagaccctat ggagctttaa accacacaac acctgctttg acttaacnca aatttcagaa
+aacccccctt caccccagca ggatgattgc cagttttagg ttggggtgac cgcggagcaa
+aaaacaacct ccacattgaa agggcaccta ncccttagcc aagagccaca cctccacgca
+ccaataaaat gacattaatt gacccaatat attgatcaac gaaccaagtt accctaggga
+taacagcgca atccacttca agagccccta tcgacaagtg ggtttacgac ctcgatgttg
+gatcagggta tcccggtggt gcagccgcta ccaaaggttc gtttg
+>Centrolene_condor
+agcctgccca gtgactctgt tcaacggccg cggtatccta accgtgcgaa ggtagcgtaa
+tcacttgttc tttaaatgag gactggtatg aatggcacca cgaaggtcat actgtctcct
+ctttccaatc agtgaaacta atctccccgt gaagaagcga ggatgaacat ataagacgag
+aagaccctat ggagctttaa actacacaac acctgctttg acctaatnta aatttcagaa
+aatccccctt caccccagca ggatgattgc cagttttagg ttggggtgac cgcggagcaa
+aaaacaacct ccacattgaa agggcgcctg ccccttagcc aagagctacg cctccacgca
+ccaataaaat gacattaatt gacccaatat attgatcaac gaaccaagtt accctaggga
+taacagcgca atccacttca agagccccta tcgacaagtg ggtttacgac ctcgatgttg
+gatcagggta tcccggtggt gcagccgcta ccaaaggttc gtttg
+>Centrolene_ballux
+caacgattaa aaccctacgt gatctgagtt cagaccggag taatccaggt cagtttctat
+ctataaagag ctttttctag tacgaaagga ccgaaaaagc atggcctcta taaaatataa
+gccttagcta ataacttatg actcaaactc aataaaatca tagcctaaca ccaccctcaa
+gacaagagta gttaacgtag caaaacctgg aattgcaaaa gacctaaacc ctttctatag
+aggttcaaat cctctcgtta actttgaacc tcctacttat tattcccacc ctatgctaca
+ttatccccat cctcctggca gttgctttcc tcaccctaat cgaacgcaaa gttttaggct
+acatacaaca tcgaaaagga ccaaatattg taggcccaat aggactcctc caaccaattg
+cagacggggt aaaactattt attaaggagc ccatccgccc agccacctcc tcacaaacct
+tatttctact gaccccaacg ctggccttcg ctctagcaat aattatctga accccactgc
+ccatgcccat ctctctgtca gatataaacc taggaatctt atttatccta gccctttcaa
+gcctaacagt ttactccatc cttggatcag gatgagcatc caactcaaag tacgccctaa
+tcggagcact gcgagcagtt gcacaaacaa tctcttatga ggtcaccctt gccctaattc
+ttctctgctc catccttctc tccggcaatt tcaccctaca aaacttcaac atcacccagg
+aatcaatctg actccttatc cccatctgac ccatagccat gatgtgatat atttcaaccc
+tagcagaaac caaccgagcg ccctttgacc tcaccgaagg cgaatctgag ctcgtctccg
+gctttaatgt agaatacgca gggggcccat ttgcactatt cttccttgca gaatacgcaa
+acatcctaat aataaacacc atctcctcaa ttatctttct gggctccacg gccatgatat
+ttctcccact tacaaccgta tctttaatga ccaaagcagc cctactttca atagcattct
+tatgggtccg agcctcttac ccacgatttc gctacgacca actcatgcac ctagtctgaa
+aaaactttct tcccttaacc ctcgccctta ctatttgaca cattgccctc ccaatctccc
+tcatgtatac cccaccaatc acatggaagc gtgcccgaaa gataaggacc tccttgatag
+ggagaactat aggggctcaa accccctcgc ctcct
+>Centrolene_sabini
+agcctgccca gtgactctgt tcaacggccg cggtatccta accgtgcgaa ggtagcgtaa
+tcacttgttc tttaaatgag gactagtatg aatggcacca cgaaggttat actgtctctt
+ctttccaatc agtgaaacta atctccccgt gaagaagcga ggatgtaaat ataagacgag
+aagaccctat ggagctttaa accacgcaac acctgctttg acttaacnta aatttcagaa
+aacccctctc caccccagca gaatgattgc cagttttagg ttggggtgac cgcggagcaa
+aaaacaacct ccacattgaa agggcaccta cccnttagcc aagagccaca cctccacgca
+ccaataaaat gacattaatt gacccaatat attgatcaac gaaccaagtt accctaggga
+taacagcgca atccacttca agagccccta tcgacaagtg ggtttacgac ctcgatgttg
+gatcagggta tcccggtggt gcagccgcta ccaaaggt
+>Centrolene_savagei
+attaaaccaa cattacctar gaacccttat aaactactga gtaattctat acctcctata
+gaaaatttta tgttaaaact agtaacaaga agaagaactt ctcctacaat gcaaatgtaa
+atcagacagg acaccccact gataattaac gtcaatgaat aaagaatagc aacctaacaa
+gaaaacccta ctacaacata cgttaaccta acaccagagc attacaagaa agattaaaag
+aaaaagaagg aactcggcaa acattaacct cgcctgttta ccaaaaacat cgcctcttgc
+aaaatataag aggtccagcc tgcccagtga ctctgttcaa cggccgcggt atcctaaccg
+tgcgaaggta gcgtaatcac ttgttcttta aatgaggact agtatgaatg gcaccacgaa
+ggttatactg tctcctattt ctaatcagtg aaactaatct ctccgtgaag aagcggggat
+aaccatataa gacgagaaga ccctatggag ctttaaatga cacaacacct gttttaaccc
+acttaaattt cagaagaccc tcacttattt ttgcaggatg attgttaatt ttaggttggg
+gtgaccgcgg agtaaaaaac aacctccaca ctgaaagggg accgcccctt agctaagaac
+cacacctcca cgcaccaata aaatgacact aattgaccca atatattgat caacgaacca
+agttacccta gggataacag cgcaatccac ttcaagagcc cctatcgaca agtgggttta
+cgacctcgat gttggatcag ggtatcccgg tggtgcagcc gctaccaaag gttcgtttgt
+t
+>Cochranella_balionota
+aactaatccc cacaccacct aagaaccctt atacaatact gagtaattct atacctctat
+agaagatttt atgttaaaac tagtaacaag aagaagatgc ttctcctaat aatgcaggcg
+taaatcagac aggacacccc actgacaatt aacaccagtg aataaaaagt agtaactcaa
+ccaagaaaac cctactaccc cctatgttaa cctaacacta gagcattaca agaaagatta
+aaagaaagag aaggaactcg gcaaatatta acctcgcctg tttaccaaaa acatcgcctc
+ttgaaaaata tgagaggtcc agcctgccca gtgactctgt gttcaacggc cgcggtatcc
+taaccgtgcg aaggtagcgt aatcacttgt tctttaaatg aggactagta tgaatggcac
+cacgaaggtt atactgtctc ctctttctaa tcagtgaaac taacctcccc gtgaagaggc
+ggggataaac ctataagacg agaagaccct atggagcttt aaatgacgca acacctgatt
+ttaacctaac taattccaga aaaacctcct ctacccccac aggatgattg ctagttttag
+gttggggtga ccgcggagca caaaacaacc tcctcattga aaggaaccca ctccttagcc
+aagagccacg cctccatgca tcaacaaaat gacattaatt gacccaatat attgatcaac
+gaaccaagtt accctaggga taacagcgca atccacttta agagccccta tcgacaagtg
+ggtttacgac ctcgatgttg gatcagggta tcctggt

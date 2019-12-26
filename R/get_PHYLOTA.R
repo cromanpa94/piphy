@@ -8,7 +8,7 @@
 #'
 #'
 #' @example
-#' get_phylota("Pinus", MSA = T, ALI =T)
+#' get_phylota("centrolene", MSA = T, ALI =T)
 #'
 #' @export
 
@@ -18,7 +18,7 @@ get_phylota <- function(clade,
   if (is.null(clade)) {
     stop("Please select a Clade")
   }
-  if (class(clade) != "Vector") {
+  if (class(clade) != "character") {
     stop("Please use a character vector for Clade")
   }
   if (file.exists("Unaligned")) {
