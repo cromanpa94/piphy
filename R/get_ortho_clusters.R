@@ -2,7 +2,7 @@
 
 get_ortho_clusters<-function(ingroup, outgroup, MSA=T, ALI=F){
 
-  ##Delete files
+  ##Delete files-
   if(file.exists("sequences.fasta")){unlink("sequences.fasta", recursive = T)}else{}
   if (length(grep("cluster_*", list.files("."), value = T)) == 0) {
   } else {
