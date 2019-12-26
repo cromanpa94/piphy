@@ -6,7 +6,7 @@ supermatrix_SF<-function (missing = "-", prefix = "concatenated", save = T, thre
     DNA <- list()
     for (i in 1:length(file.names)) {
       print(paste("Reading alignment", i))
-      DNA[[i]] <- read.dna(file = file.names[i], format = "f",
+      DNA[[i]] <- ape::read.dna(file = file.names[i], format = "f",
                            as.character = T)
     }
 

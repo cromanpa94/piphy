@@ -324,7 +324,7 @@ update_phylota <-
           )
 
           if (file.info("test.txt")$size > 0) {
-            cluster <- read.dna(paste0(subwd, files[j]), format = "fasta")
+            cluster <- ape::read.dna(paste0(subwd, files[j]), format = "fasta")
             cluster[length(cluster) + 1] <- sequence
             names(cluster)[length(cluster)] <- names(sequence)
             write.dna(cluster, paste0(subwd, files[j]), format = "fasta")
@@ -425,7 +425,7 @@ update_phylota <-
       ##Correct clusters
       for (i in 1:length(files)) {
 
-        cluster <- read.dna(paste0(subwd, files[i]), format = "fasta")
+        cluster <- ape::read.dna(paste0(subwd, files[i]), format = "fasta")
         if(length(which(names(cluster) %in% gsub(" ", "_", spp_delete))) == 0){
           cluster}else{
             rep_la<-which(names(cluster) %in% gsub(" ",
@@ -608,7 +608,7 @@ update_phylota <-
       lapply(list.files(
         pattern = c(".fasta"),
         full.names = T, recursive = T
-      ), read.dna, "fasta")
+      ), ape::read.dna, "fasta")
 
     names_alns <-list.files(
       pattern = c(".fasta"),
@@ -662,7 +662,7 @@ update_phylota <-
       lapply(list.files(
         pattern = c(".fasta"),
         full.names = T, recursive = T
-      ), read.dna, "fasta")
+      ), ape::read.dna, "fasta")
 
     names_alns <-list.files(
       pattern = c(".fasta"),

@@ -9,6 +9,5 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-Require: taxize,XML,pbapply,stringr,seqRFLP,plyr,
-phangorn,Biostrings,msa,ips,rentrez,RFLPtools
+Require: ape,taxize,XML,pbapply,stringr,seqRFLP,plyr,phangorn,Biostrings,msa,ips,rentrez,RFLPtools
 

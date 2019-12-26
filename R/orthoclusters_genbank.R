@@ -58,7 +58,7 @@ orthoclusters_genbank <- function(ingroup,
 
   })
 
-  seqs <- read.dna("sequences.fasta", "fasta")
+  seqs <- ape::read.dna("sequences.fasta", "fasta")
 
   cat("Removing sequences for unconfirmed species")
 
@@ -109,7 +109,7 @@ orthoclusters_genbank <- function(ingroup,
   ##Write clusters
   cat(length(unique(hc2)), "clusters found")
 
-  seqs <- read.dna("sequences.fasta", "fasta")
+  seqs <- ape::read.dna("sequences.fasta", "fasta")
   lapply(1:length(unique(hc2)), function(x) {
     names <- sapply(strsplit(names(seqs), " "), head, 1)
     seqs2 <- seqs[which(names %in% names(which(hc2 == x)))]
